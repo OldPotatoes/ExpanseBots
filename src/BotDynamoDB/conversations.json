@@ -1,0 +1,5788 @@
+{
+  "Conversations": [
+    {
+      "Id": 0,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter One: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "Holden, are you listening, or just staring out the window?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "There was a problem, and because you're really, really good, you can fix it even though you don't have enough money or supplies."
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "So you weren't listening."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "Not really, no."
+        }
+      ]
+    },
+    {
+      "Id": 1,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Two: Miller",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "I don't like this."
+        },
+        {
+          "Index": 1,
+          "Character": "Havelock",
+          "Quote": "Belters, one thing goes weird and you think the whole ecosystem's crashing. If the Golden Bough's too weak to keep its claims, that's a good thing. They're the bad guys, remember?"
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "Yeah, well, say what you will about organized crime, at least it's organized."
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Six: Miller",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Havelock",
+          "Quote": "Okay, I'm sorry, but I'm missing something here."
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "What?"
+        },
+        {
+          "Index": 2,
+          "Character": "Havelock",
+          "Quote": "A water hauler millions of klicks from here got vaporized. Why are we going to full alert? Our cisterns will last months without even going on rationing. There are a lot of other haulers out there. Why is this a crisis?"
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "That prick Holden? The one in the broadcast? He just declared war on Mars for us."
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Six: Miller",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "When I was homicide, there was this guy. Property management specialist working a contract out of Luna. Someone burned half his skin off and dropped him out an airlock. Turned out he was responsible for maintenance on sixty holes up on level thirty. Lousy neighborhood."
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "He'd been cutting corners. Hadn't replaced the air filters in three months. There was mold growing in three of the units. And you know what we found after that?"
+        },
+        {
+          "Index": 2,
+          "Character": "Havelock",
+          "Quote": "What?"
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "Not a goddamn thing, because we stopped looking. Some people need to die, and he was one."
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Seven: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "I never said Mars did it."
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "You sort of did."
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Seven: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Naomi, if this goes badly, I need you… I need you to…"
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "Throw you to the wolves. Blame everything on you and get the others back to Saturn Station safely."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Yeah, don't play the hero."
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "Hadn't crossed my mind, sir."
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Eleven: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Alex",
+          "Quote": "This sucks. All the real action is happenin' thousands of klicks from here, and we got no instruments to look at. We won't know if somethin' slipped through the flack screen till it rips the hull open."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Boy, everybody is just a fucking pile of fun right now."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Not going to happen. This thing is unkillable. Whoever those ships are, they can put on a good show, but that's it."
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "All respect, Captain, but whoever those ships are, they should be dead already, and they aren't."
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Twelve: Miller",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "Havelock. You have any vacation time saved up?"
+        },
+        {
+          "Index": 1,
+          "Character": "Havelock",
+          "Quote": "A little."
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "Sick leave?"
+        },
+        {
+          "Index": 3,
+          "Character": "Havelock",
+          "Quote": "Sure."
+        },
+        {
+          "Index": 4,
+          "Character": "Miller",
+          "Quote": "Take it. Take it now. Get off station. Someplace safe if you can find it. Someplace they're not going to start killing Earthers for shits and giggles if things go pear-shaped."
+        },
+        {
+          "Index": 5,
+          "Character": "Havelock",
+          "Quote": "I don't understand. What are you talking about?"
+        },
+        {
+          "Index": 6,
+          "Character": "Miller",
+          "Quote": "I had a little visit with an OPA agent tonight. He was trying to talk me into dropping my kidnap job. I think… I think he's nervous. I think he's scared."
+        },
+        {
+          "Index": 7,
+          "Character": "Havelock",
+          "Quote": "Jesus. What scares the OPA?"
+        }
+      ]
+    },
+    {
+      "Id": 8,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Fifteen: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Alex",
+          "Quote": "Oh shit, I can see Gomez."
+        },
+        {
+          "Index": 1,
+          "Character": "Alex",
+          "Quote": "He's down. Aw, you goddammed bastards! They're shootin' him while he's down! Son of a bitch!"
+        },
+        {
+          "Index": 2,
+          "Character": "Alex",
+          "Quote": "Suck on this, asshole."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "Point defense cannons?"
+        },
+        {
+          "Index": 4,
+          "Character": "Alex",
+          "Quote": "Summary roadside justice."
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Fifteen: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Someone is going to investigate what happened to the Donnager. Martian ships are speeding to that spot as we speak. They'll already know the Tachi got away, because our transponder is blabbing our survival to the solar system at large."
+        },
+        {
+          "Index": 1,
+          "Character": "Alex",
+          "Quote": "No it ain't."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Explain that, Mr. Kamal."
+        },
+        {
+          "Index": 3,
+          "Character": "Alex",
+          "Quote": "This is a torpedo bomber."
+        },
+        {
+          "Index": 4,
+          "Character": "Alex",
+          "Quote": "You think they want a nice transponder signal to lock on to when they're makin' runs on an enemy capital ship? Naw, there's a handy switch up in the cockpit that says 'transponder off.' I flipped it before we flew out. We're just another moving object out of a million like us."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "Alex, that may be the single greatest thing anyone has ever done, in the history of the universe."
+        }
+      ]
+    },
+    {
+      "Id": 10,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Seventeen: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "I'm all for that, Captain. I always did think the Belters were getting the short end of the stick. I'll go be a revolutionary for a while, I guess."
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "Earthman's burden, Amos?"
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "What the fuck does that even mean?"
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "Nothing, just teasing. I know you like our side because you just want to steal our women."
+        },
+        {
+          "Index": 4,
+          "Character": "Amos",
+          "Quote": "Well, you ladies do have the legs that go all the way up."
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Seventeen: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Put your suits on, that's now standard ops for this crew anytime we go someplace new. And take one of these. Hide it in a pocket or your bag if you like, but I will be wearing mine openly."
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "Seems a bit… confrontational, doesn't it?"
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "I'm tired of being kicked around. The Roci's a good start toward independence, and I'm taking a little piece of her with me. Call it a good luck charm."
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Twenty-Three: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "No one shoot the guy with the hat!"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Guy is probably a cop."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Extra especially do not shoot any cops."
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "They might all be cops."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "Cops don't carry small, easily concealable machine guns and ambush people from stairwells. We call those death squads."
+        }
+      ]
+    },
+    {
+      "Id": 13,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Twenty-Seven: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Why do you think a bunch of Ceres mobsters are moving everyone to radiation shelters when there's no actual radiation danger? And why are the Eros cops letting them?"
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "Good questions."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "If they were using these yahoos, it helps explain why their attempted kidnapping at the hotel went so poorly. They don't seem like pros."
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "Nope, that's not their usual area of expertise."
+        },
+        {
+          "Index": 4,
+          "Character": "Naomi",
+          "Quote": "Would you two be quiet?"
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "It'd be really stupid to go take a look at what's going on, wouldn't it?"
+        },
+        {
+          "Index": 6,
+          "Character": "Miller",
+          "Quote": "Yes. Whatever's going on at those shelters, you know that's where all the guards and patrols will be."
+        },
+        {
+          "Index": 7,
+          "Character": "Holden",
+          "Quote": "Yeah."
+        },
+        {
+          "Index": 8,
+          "Character": "Naomi",
+          "Quote": "Captain."
+        },
+        {
+          "Index": 9,
+          "Character": "Holden",
+          "Quote": "Still, you hate a mystery."
+        },
+        {
+          "Index": 10,
+          "Character": "Miller",
+          "Quote": "I do at that. And you, my friend, are a damn busybody."
+        },
+        {
+          "Index": 11,
+          "Character": "Holden",
+          "Quote": "It's been said."
+        },
+        {
+          "Index": 12,
+          "Character": "Naomi",
+          "Quote": "Goddamn it."
+        },
+        {
+          "Index": 13,
+          "Character": "Amos",
+          "Quote": "What is it, Boss?"
+        },
+        {
+          "Index": 14,
+          "Character": "Naomi",
+          "Quote": "These two just broke our getaway plan."
+        }
+      ]
+    },
+    {
+      "Id": 14,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Twenty-Nine: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "Way I see it, there's three ways this can go."
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "One, we find your ship still in dock, get the meds we need, and maybe we live. Two, we try to get to the ship, and along the way we run into a bunch of mafia thugs. Die gloriously in a hail of bullets. Three, we sit here and leak out of our eyes and assholes."
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "I'm liking the first two better than the last one. How about you come with?"
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "Sure, I just needed to feel sorry for myself for a minute. Let's go get killed by the mafia."
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Thirty-Two: Miller",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "Hey, Detective, how're you feeling?"
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "I've felt worse."
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "No. I haven't. But I'm all right. How bad was it?"
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "You're both dead. Seriously, we had to override the triage filters on both of you more than once. The expert system kept clicking you over into hospice care and shooting you full of morphine."
+        }
+      ]
+    },
+    {
+      "Id": 16,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Thirty-Three: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "Jesus, Captain, you still look like shit."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "You keep saying that."
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "Keeps bein' true."
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "Amos, don't you have work to do?"
+        },
+        {
+          "Index": 4,
+          "Character": "Amos",
+          "Quote": "Nope. Most boring ship I ever worked, Boss. She don't break, she don't leak, she don't even have an annoying rattle to tighten down."
+        },
+        {
+          "Index": 5,
+          "Character": "Naomi",
+          "Quote": "There's always mopping."
+        },
+        {
+          "Index": 6,
+          "Character": "Amos",
+          "Quote": "Oh, that reminds me. I better get down to the engine room and look at that... thing I've been meaning to look at, 'scuse me, Cap."
+        }
+      ]
+    },
+    {
+      "Id": 17,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Thirty-Four: Miller",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Protogen, protomolecule. They had no idea what it does, but they slapped their label on it like they'd made it. They found an alien weapon, and all they could think to do was brand it."
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "There's reason to think these boys are pretty impressed with themselves."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Now, I'm not a scientist or anything, but it seems to me like taking an alien supervirus and dropping it into a space station would be a bad idea."
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "It's been two years, they've been doing tests. They've been..."
+        },
+        {
+          "Index": 4,
+          "Character": "Miller",
+          "Quote": "I don't know what the hell they've been doing. But Eros is what they decided on. And everyone knows what happened on Eros. The other side did it. No research and recovery ships because they're all fighting each other or guarding something. The war? It's a distraction."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "And Protogen is doing... what?"
+        },
+        {
+          "Index": 6,
+          "Character": "Miller",
+          "Quote": "Seeing what their toy does when you take it out for a spin is my guess."
+        }
+      ]
+    },
+    {
+      "Id": 18,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Thirty-Five: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "Mars would give you your lives back in exchange for this. I hear Mars is nice if you're rich."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Fuck rich. They'd build statues of us."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "We have an agreement with Fred to let him outbid any other contracts we take. Of course, this isn't really a contract per se..."
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "So what is it, sir? OPA heroes? Martian billionaires? Start your own biotech firm? What are we doing here?"
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "I don't know yet,� he said. �But it sure feels nice to have choices again."
+        }
+      ]
+    },
+    {
+      "Id": 19,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Thirty-Six: Miller",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "There's a right thing to do."
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "You don't have a right thing, friend, you've got a whole plateful of maybe a little less wrong."
+        }
+      ]
+    },
+    {
+      "Id": 20,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Thirty-Seven: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "So, I've been thinking of it as a computing problem. If the virus or nanomachine or protomolecule or whatever was designed, it has a purpose, right?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Definitely."
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "And it seems like it's trying to do something-something complex. It doesn't make sense to go to all that trouble just to kill people. Those changes it makes look intentional, just... not complete, to me."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "I can see that."
+        },
+        {
+          "Index": 4,
+          "Character": "Naomi",
+          "Quote": "So maybe the issue is that the protomolecule isn't smart enough yet. You can compress a lot of data down pretty small, but unless it's a quantum computer, processing takes space. The easiest way to get that processing in tiny machines is through distribution."
+        },
+        {
+          "Index": 5,
+          "Character": "Naomi",
+          "Quote": "Maybe the protomolecule isn't finishing its job because it just isn't smart enough to. Yet."
+        },
+        {
+          "Index": 6,
+          "Character": "Alex",
+          "Quote": "Not enough of them."
+        },
+        {
+          "Index": 7,
+          "Character": "Naomi",
+          "Quote": "Right. So you give them a lot of biomass to work with, and see what it is they are ultimately made to do."
+        }
+      ]
+    },
+    {
+      "Id": 21,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Thirty-Eight: Miller",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "This is a war. I've worked with the OPA before, and frankly you folks are a lot better at little guerrilla bullshit than at coordinating anything real. Half of the people who claim to speak for you are crackpots who happened to have a radio nearby."
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "I see you've got a lot of money. I see you've got a nice office. What I don't see — what I need to see — is that you've got what it takes to bring these bastards down."
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "Taking out a station isn't a game. I don't care how many simulations you've run. This is real now. If I'm going to help you, I need to know you can handle it."
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "Miller? You know who Fred is, right?"
+        },
+        {
+          "Index": 4,
+          "Character": "Miller",
+          "Quote": "The Tycho mouthpiece for the OPA. That doesn't draw a whole lot of water with me."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "He's Fred Johnson."
+        },
+        {
+          "Index": 6,
+          "Character": "Naomi",
+          "Quote": "Colonel Frederick Lucius Johnson."
+        },
+        {
+          "Index": 7,
+          "Character": "Miller",
+          "Quote": "The Butcher of Anderson Station?"
+        },
+        {
+          "Index": 8,
+          "Character": "Fred",
+          "Quote": "The same. I have been talking with the central council of the OPA. I have a cargo ship with more than enough troops to secure the station. Air support is a state-of-the-art Martian torpedo bomber."
+        },
+        {
+          "Index": 9,
+          "Character": "Miller",
+          "Quote": "The Roci?"
+        },
+        {
+          "Index": 10,
+          "Character": "Fred",
+          "Quote": "The Rocinante. And while you may not believe it, I actually know what I'm doing."
+        },
+        {
+          "Index": 11,
+          "Character": "Miller",
+          "Quote": "That Fred Johnson?"
+        },
+        {
+          "Index": 12,
+          "Character": "Holden",
+          "Quote": "I thought you knew."
+        },
+        {
+          "Index": 13,
+          "Character": "Miller",
+          "Quote": "Well. Don't I feel like the flaming idiot."
+        }
+      ]
+    },
+    {
+      "Id": 22,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Thirty-Nine: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Alex, why aren't we shooting?"
+        },
+        {
+          "Index": 1,
+          "Character": "Alex",
+          "Quote": "Gonna shoot his torpedoes down, then get in close and let the PDCs chew him up."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Why?"
+        },
+        {
+          "Index": 3,
+          "Character": "Alex",
+          "Quote": "We've only got so many torpedoes and no resupply. No call to waste 'em on these munchkins."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "Alex, we didn't pay for this ship. Feel free to use it up. If I get killed so you can save ammo, I am going to put a reprimand in your permanent file."
+        }
+      ]
+    },
+    {
+      "Id": 23,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Forty-Three: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "I fucking told you, no more of that judge, jury, and executioner shit or you could find your own ride, and you did it anyway."
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "Yes."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Why?"
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "He was going to get away with it."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "Excuse me? Did you miss the part where he confessed to everything?"
+        },
+        {
+          "Index": 5,
+          "Character": "Miller",
+          "Quote": "That wasn't a confession. That was a boast. He was untouchable, and he knew it. Too much money. Too much power."
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "That's bullshit. No one gets to kill a million and a half people and get away with it."
+        },
+        {
+          "Index": 7,
+          "Character": "Miller",
+          "Quote": "People get away with things all the time. Guilty as hell, but something gets in the way. Evidence. Politics. I had a partner for a while, name of Muss. When Earth pulled out of Ceres-"
+        },
+        {
+          "Index": 8,
+          "Character": "Holden",
+          "Quote": "Stop. I don't care. I don't want to hear any more of your stories about how being a cop makes you wiser and deeper and able to face the truth about humanity. As far as I can tell, all it did was break you. Okay?"
+        },
+        {
+          "Index": 9,
+          "Character": "Miller",
+          "Quote": "Yeah, okay."
+        },
+        {
+          "Index": 10,
+          "Character": "Holden",
+          "Quote": "Dresden and his Protogen buddies thought they could choose who lives and who dies. That sound familiar? And don't tell me it's different this time, because everyone says that, every time. And it's not."
+        },
+        {
+          "Index": 11,
+          "Character": "Miller",
+          "Quote": "Wasn't revenge."
+        },
+        {
+          "Index": 12,
+          "Character": "Holden",
+          "Quote": "Oh really? This wasn't about the girl in the hotel? Julie Mao?"
+        },
+        {
+          "Index": 13,
+          "Character": "Miller",
+          "Quote": "Catching him was. Killing him..."
+        },
+        {
+          "Index": 14,
+          "Character": "Miller",
+          "Quote": "He was talking us into it. All that about getting the stars and protecting ourselves from whatever shot that thing at Earth? I was starting to think maybe he should get away with it."
+        },
+        {
+          "Index": 15,
+          "Character": "Miller",
+          "Quote": "Maybe things were just too big for right and wrong. I'm not saying he convinced me. But he made me think maybe, you know? Just maybe."
+        },
+        {
+          "Index": 16,
+          "Character": "Holden",
+          "Quote": "And for that, you shot him."
+        },
+        {
+          "Index": 17,
+          "Character": "Miller",
+          "Quote": "I did."
+        }
+      ]
+    },
+    {
+      "Id": 24,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Forty-Four: Miller",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Fred",
+          "Quote": "You killed Dresden, that's a problem."
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "It needed to happen."
+        },
+        {
+          "Index": 2,
+          "Character": "Fred",
+          "Quote": "I'm not sure it did."
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "That's why it needed to happen."
+        }
+      ]
+    },
+    {
+      "Id": 25,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Forty-Five: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "I think Fred was half a second from ordering Miller to shoot me."
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "Miller's on our side. Haven't you figured that out yet?"
+        }
+      ]
+    },
+    {
+      "Id": 26,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Forty-Six: Miller",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Fred",
+          "Quote": "I hope your friends are really up for this."
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "They aren't my friends."
+        },
+        {
+          "Index": 2,
+          "Character": "Fred",
+          "Quote": "No?"
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "I don't exactly have friends. It's more I've got a lot of people I used to work with."
+        },
+        {
+          "Index": 4,
+          "Character": "Fred",
+          "Quote": "You put a lot of faith in Holden."
+        },
+        {
+          "Index": 5,
+          "Character": "Miller",
+          "Quote": "Not faith. Judgment."
+        },
+        {
+          "Index": 6,
+          "Character": "Fred",
+          "Quote": "And that's why you don't have friends, friend."
+        },
+        {
+          "Index": 7,
+          "Character": "Miller",
+          "Quote": "Part of it."
+        }
+      ]
+    },
+    {
+      "Id": 27,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Forty-Seven: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Naomi, can you pass the pepper?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Holy shit, you guys are doing it!"
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Um, what?"
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Something's been screwy ever since we got back on the Roci, but I couldn't figure. But that's it! You guys are finally playing hide the weasel."
+        }
+      ]
+    },
+    {
+      "Id": 28,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Forty-Nine: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Explain."
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "Well, heating Eros up didn't move it. So I assume that means it was waste heat from whatever it was they actually did."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "And that means?"
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "That entropy still exists. That they can't convert mass to energy with perfect efficiency. That their machines or processes or whatever they use to move seven thousand trillion kilos of rock wastes some energy. About a two-gigaton bomb's worth of it."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "Ah."
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "You couldn't move Eros two hundred kilometers with a two-gigaton bomb."
+        },
+        {
+          "Index": 6,
+          "Character": "Naomi",
+          "Quote": "No, you couldn't. This is just the leftovers. Heat by-product. Their efficiency is still off the charts, but it isn't perfect. Which means the laws of physics still hold. Which means it isn't magic."
+        }
+      ]
+    },
+    {
+      "Id": 29,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Chapter Fifty-Three: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "I'd be curious to know how you talked them into it. I was thinking I was probably screwed."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Doesn't matter, we bought you your time. Go find the girl and save humanity. We'll be waiting to hear back."
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "I've been thinking about where to go, if I can talk to her. I mean, she's got to park this thing somewhere."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "Give her Venus. It's an awful place."
+        }
+      ]
+    },
+    {
+      "Id": 30,
+      "Book": "Leviathan Wakes",
+      "Chapter": "Epilogue: Fred",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "So, are they really going to sue me over this?"
+        },
+        {
+          "Index": 1,
+          "Character": "Fred",
+          "Quote": "Unilaterally giving away all mineral and development rights to an entire planet on an open radio channel?"
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Yeah."
+        },
+        {
+          "Index": 3,
+          "Character": "Fred",
+          "Quote": "I would guess the people who actually owned those rights are probably going to sue you, if they ever figure out who they are."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "Could you give me a hand with that?"
+        },
+        {
+          "Index": 5,
+          "Character": "Fred",
+          "Quote": "I'll be a character witness. I don't actually make the law."
+        }
+      ]
+    },
+    {
+      "Id": 31,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Two: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "We're closing awful fast. What's up?"
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "Pirate ship has slowed down quite a bit from its initial one g acceleration. They dropped to half a g for a couple minutes, then stopped accelerating altogether a minute ago."
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "The computer tracked some fluctuations in drive output just before they slowed, so I think we chased them too hard."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "They broke their ship?"
+        },
+        {
+          "Index": 4,
+          "Character": "Naomi",
+          "Quote": "They broke their ship."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "How long to intercept now?"
+        },
+        {
+          "Index": 6,
+          "Character": "Naomi",
+          "Quote": "Five minutes, tops. Alex was waiting to do the final decel burn until you were up here and belted in."
+        },
+        {
+          "Index": 7,
+          "Character": "Holden",
+          "Quote": "Amos, buckle up. Five minutes to badguys. Alex, what's the word?"
+        },
+        {
+          "Index": 8,
+          "Character": "Alex",
+          "Quote": "I do believe they broke their ship."
+        },
+        {
+          "Index": 9,
+          "Character": "Holden",
+          "Quote": "That seems to be the consensus."
+        }
+      ]
+    },
+    {
+      "Id": 32,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Six: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "What. The. Fuck, was that all about?"
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "What?"
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Amos here did just about everything he could to piss the marines off while you were gone. I'm surprised they didn't shoot him, and then me half a second later."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Cap, you're a good guy, but you'd be a shitty smuggler."
+        },
+        {
+          "Index": 4,
+          "Character": "Naomi",
+          "Quote": "What?"
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "The captain here was so nervous even I started to think he was up to something. So I kept the marines' attention until you got back. Oh, and they can't shoot you unless you actually touch them or draw a weapon. You were a UN Navy boy. You should remember the rules."
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "So …"
+        },
+        {
+          "Index": 7,
+          "Character": "Amos",
+          "Quote": "So. If the lieutenant asks them about us, they'll have a story to tell about the asshole engineer who got in their faces, and not the nervous guy with the patchy beard who kept trying to hide in the corner."
+        },
+        {
+          "Index": 8,
+          "Character": "Holden",
+          "Quote": "Shit."
+        },
+        {
+          "Index": 9,
+          "Character": "Amos",
+          "Quote": "You're a good captain, and you can have my back in a fight anytime. But you're a crap criminal. You just don't know how to act like anyone but yourself."
+        },
+        {
+          "Index": 10,
+          "Character": "Naomi",
+          "Quote": "Wanna be captain again? That job sucks."
+        }
+      ]
+    },
+    {
+      "Id": 33,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Fourteen: Prax",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Prax",
+          "Quote": "No, I don't mean I'm waiting for you when you go to that door. I mean I'm waiting for you right now. I'm waiting to go there with you."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "How many gunfights have you been in? Because I've been in …"
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "shit. This'll be eleven for me. Maybe twelve, if you count the one time when the guy got up again as a different fight. Point is, if you want your little girl safe, you don't want her in a tunnel with a guy firing a gun who doesn't know what he's doing."
+        },
+        {
+          "Index": 3,
+          "Character": "Prax",
+          "Quote": "I'll be fine."
+        },
+        {
+          "Index": 4,
+          "Character": "Amos",
+          "Quote": "This ready to fire?"
+        },
+        {
+          "Index": 5,
+          "Character": "Prax",
+          "Quote": "Sorry?"
+        },
+        {
+          "Index": 6,
+          "Character": "Amos",
+          "Quote": "If you pick this gun up right now, point it at a bad guy, pull the trigger, does it go bang? You just watched me put it together. Dangerous or safe?"
+        },
+        {
+          "Index": 7,
+          "Character": "Prax",
+          "Quote": "Safe."
+        },
+        {
+          "Index": 8,
+          "Character": "Amos",
+          "Quote": "You sure about that, Doc?"
+        },
+        {
+          "Index": 9,
+          "Character": "Prax",
+          "Quote": "You didn't put any bullets in it. It's safe."
+        },
+        {
+          "Index": 10,
+          "Character": "Amos",
+          "Quote": "You're sure?"
+        },
+        {
+          "Index": 11,
+          "Character": "Prax",
+          "Quote": "Yes."
+        },
+        {
+          "Index": 12,
+          "Character": "Amos",
+          "Quote": "Well, yeah, that's right. But you're still not going."
+        }
+      ]
+    },
+    {
+      "Id": 34,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Fourteen: Prax",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Um. Amos? Did you just give him a loaded gun?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Doc needs to go, Cap'n. So I'm thinking he should probably go."
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "We might want to talk about that decision-making process, Amos."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "You betcha. Soon as we get back."
+        }
+      ]
+    },
+    {
+      "Id": 35,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Eighteen: Avasarala",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "You made quite an impression today."
+        },
+        {
+          "Index": 1,
+          "Character": "Bobbie",
+          "Quote": "I did. Thorsson's going to ship me out. I'm done here. May just be done."
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "That's fair. You've accomplished what they wanted from you anyway."
+        },
+        {
+          "Index": 3,
+          "Character": "Bobbie",
+          "Quote": "I haven't done shit."
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "You were here. That's all they needed from you."
+        },
+        {
+          "Index": 5,
+          "Character": "Bobbie",
+          "Quote": "What's the point?"
+        },
+        {
+          "Index": 6,
+          "Character": "Avasarala",
+          "Quote": "They want to convince me that the monster wasn't theirs. One argument they've made is that their own soldiers — meaning you — didn't know about it."
+        },
+        {
+          "Index": 7,
+          "Character": "Avasarala",
+          "Quote": "By bringing you, they're showing that they aren't afraid to bring you. That's all they need. You could sit around with your thumb up your ass and argue about the offside rule all day. It would be just as good for them. You're a showpiece."
+        },
+        {
+          "Index": 8,
+          "Character": "Bobbie",
+          "Quote": "I don't think I like that."
+        },
+        {
+          "Index": 9,
+          "Character": "Avasarala",
+          "Quote": "Yes, well, Thorsson's a cunt, but if you stop working with politicians just for that, you won't have any friends."
+        },
+        {
+          "Index": 10,
+          "Character": "Avasarala",
+          "Quote": "That thing that killed your friends? It wasn't one of mine."
+        },
+        {
+          "Index": 11,
+          "Character": "Bobbie",
+          "Quote": "It wasn't one of ours either."
+        },
+        {
+          "Index": 12,
+          "Character": "Avasarala",
+          "Quote": "Well. At least we’ve got that settled."
+        }
+      ]
+    },
+    {
+      "Id": 36,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Twenty-Three: Avasarala",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "The hell is this?"
+        },
+        {
+          "Index": 1,
+          "Character": "Bobbie",
+          "Quote": "My resignation. I thought you'd want all the paperwork in place. We're at war now, so I'll be shipping back. Getting my new assignment."
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "Who recalled you?"
+        },
+        {
+          "Index": 3,
+          "Character": "Bobbie",
+          "Quote": "No one, yet. But —"
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "Will you please sit down? I feel like I'm at the bottom of a fucking well, talking to you."
+        },
+        {
+          "Index": 5,
+          "Character": "Avasarala",
+          "Quote": "Do you want to kill me? I am one of the most powerful people in the UN. We're at war. So do you want to kill me?"
+        },
+        {
+          "Index": 6,
+          "Character": "Bobbie",
+          "Quote": "I … guess so?"
+        },
+        {
+          "Index": 7,
+          "Character": "Avasarala",
+          "Quote": "You don't. You want to find out who killed your men and you want the politicians to stop greasing the wheels with Marine blood. And holy shit! What do you know? I want that too."
+        },
+        {
+          "Index": 8,
+          "Character": "Bobbie",
+          "Quote": "But I'm active-duty Martian military. If I stay working for you, I'm committing treason."
+        },
+        {
+          "Index": 9,
+          "Character": "Avasarala",
+          "Quote": "They haven't recalled you. And they're not going to. The wartime diplomatic code of contact is almost exactly the same for you as it is for us, and it's ten thousand pages of nine-point type."
+        },
+        {
+          "Index": 10,
+          "Character": "Avasarala",
+          "Quote": "If you get orders right now, I can put up enough queries and requests for clarifications that you'll die of old age in that chair. If you just want to kill someone for Mars, you're not going to get a better target than me."
+        },
+        {
+          "Index": 11,
+          "Character": "Avasarala",
+          "Quote": "If you just want to kill someone for Mars, you're not going to get a better target than me. If you want to stop this idiotic fucking war and find out who's actually behind it, get back to your desk and find out who wants what wording."
+        },
+        {
+          "Index": 12,
+          "Character": "Bobbie",
+          "Quote": "You mean that as a rhetorical device, but it would make a certain amount of sense to kill you. And I can do it."
+        },
+        {
+          "Index": 13,
+          "Character": "Avasarala",
+          "Quote": "I'll try not to oversell the point in the future. Now get back to work."
+        }
+      ]
+    },
+    {
+      "Id": 37,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Twenty-Four: Prax",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Alex? Is that a handprint?"
+        },
+        {
+          "Index": 1,
+          "Character": "Alex",
+          "Quote": "Looks like one, Cap, but …"
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Pull out. Look at the decking. That bay's in hard vacuum, right?"
+        },
+        {
+          "Index": 3,
+          "Character": "Alex",
+          "Quote": "Has been for a day and a half, sir."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "Track right."
+        },
+        {
+          "Index": 5,
+          "Character": "Alex",
+          "Quote": "Yes, sir."
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "Okay, stop. What's that? Alex, do we have a stowaway?"
+        },
+        {
+          "Index": 7,
+          "Character": "Alex",
+          "Quote": "Pretty sure that ain't on the cargo manifest, sir."
+        },
+        {
+          "Index": 8,
+          "Character": "Holden",
+          "Quote": "And did that fellow there bend his way through my ship with his bare hands?"
+        },
+        {
+          "Index": 9,
+          "Character": "Alex",
+          "Quote": "Looks like maybe, sir."
+        },
+        {
+          "Index": 10,
+          "Character": "Holden",
+          "Quote": "Amos? Naomi?"
+        },
+        {
+          "Index": 11,
+          "Character": "Naomi",
+          "Quote": "I’m looking at it too."
+        },
+        {
+          "Index": 12,
+          "Character": "Holden",
+          "Quote": "Okay. But it’s dead, right?"
+        },
+        {
+          "Index": 13,
+          "Character": "Naomi",
+          "Quote": "I don’t think so."
+        }
+      ]
+    },
+    {
+      "Id": 38,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Twenty-Five: Bobbie",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "Bobbie!"
+        },
+        {
+          "Index": 1,
+          "Character": "Bobbie",
+          "Quote": "Ma'am? You bellowed?"
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "No one likes a smart-ass. Where's my first draft of that report? It's almost lunchtime."
+        },
+        {
+          "Index": 3,
+          "Character": "Bobbie",
+          "Quote": "Sir, I regret to inform you that I have been unable to find anyone willing to release the early draft of the report to me."
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "Are you standing at attention? Jesus. I'm not about to march you out to the firing squad. Did you try everyone on the list?"
+        },
+        {
+          "Index": 5,
+          "Character": "Bobbie",
+          "Quote": "Yes, I — no one talks to me."
+        },
+        {
+          "Index": 6,
+          "Character": "Avasarala",
+          "Quote": "That's interesting."
+        },
+        {
+          "Index": 7,
+          "Character": "Bobbie",
+          "Quote": "It is?"
+        },
+        {
+          "Index": 8,
+          "Character": "Avasarala",
+          "Quote": "Sit down. Seriously, sit the fuck down. Five minutes talking to you and I can't tilt my head forward again for an hour."
+        }
+      ]
+    },
+    {
+      "Id": 39,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Thirty: Bobbie",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Bobbie",
+          "Quote": "I can't believe we're about to climb on a ship owned by this man. Have you ever known anyone this wealthy to go to jail? Or even be prosecuted? This guy could probably walk in here and shoot you in the face on a live newsfeed and get away with it."
+        },
+        {
+          "Index": 1,
+          "Character": "Avasarala",
+          "Quote": "That's not the game. No one gets shot. They get marginalized. It's worse."
+        },
+        {
+          "Index": 2,
+          "Character": "Bobbie",
+          "Quote": "No, it's not. I've seen people shot. I've seen my friends shot. When you say, 'That's not the game,' you mean for people like you. Not like me."
+        },
+        {
+          "Index": 3,
+          "Character": "Avasarala",
+          "Quote": "Yes, that's what I mean. The level we're playing at has different rules. It's like playing go. It's all about exerting influence. Controlling the board without occupying it."
+        },
+        {
+          "Index": 4,
+          "Character": "Bobbie",
+          "Quote": "Poker is a game too. But sometimes the stakes get so high that one player decides it's easier to kill the other guy and walk away with the money. It happens all the time."
+        }
+      ]
+    },
+    {
+      "Id": 40,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Thirty-Five: Avasarala",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "Holden thinks he's a hero, power to the people, information wants to be free blah blah blah, but he's a fucking moron."
+        },
+        {
+          "Index": 1,
+          "Character": "Bobbie",
+          "Quote": "He's on his own ship."
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "What's your point?"
+        },
+        {
+          "Index": 3,
+          "Character": "Bobbie",
+          "Quote": "He's on his own ship and we're not."
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "So we're all fucking morons. Fine."
+        },
+        {
+          "Index": 5,
+          "Character": "Bobbie",
+          "Quote": "What do you want me to do about it?"
+        },
+        {
+          "Index": 6,
+          "Character": "Avasarala",
+          "Quote": "Nothing. What the hell could you do about it? You're stuck out here with me. I can hardly do anything, and I've got friends in high places. You've got nothing. I only wanted to talk to someone I didn't have to wait two minutes to let interrupt me."
+        },
+        {
+          "Index": 7,
+          "Character": "Avasarala",
+          "Quote": "That wasn't fair."
+        },
+        {
+          "Index": 8,
+          "Character": "Bobbie",
+          "Quote": "If you say so."
+        },
+        {
+          "Index": 9,
+          "Character": "Avasarala",
+          "Quote": "I fucking say so."
+        },
+        {
+          "Index": 10,
+          "Character": "Bobbie",
+          "Quote": "Was that an apology?"
+        },
+        {
+          "Index": 11,
+          "Character": "Avasarala",
+          "Quote": "As close to one as I'm giving right now."
+        }
+      ]
+    },
+    {
+      "Id": 41,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Thirty-Five: Avasarala",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "I didn't call you in here and show you all of this because I was tired of the lag. I'm worried. Fuck it, I'm scared."
+        },
+        {
+          "Index": 1,
+          "Character": "Bobbie",
+          "Quote": "About what?"
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "You want a list? I'm scared that I've been outplayed already. I'm afraid that I won't be able to stop the hawks and their cabal from using their pretty new toys. And …"
+        },
+        {
+          "Index": 3,
+          "Character": "Avasarala",
+          "Quote": "and I'm afraid that I might be wrong. What happens, Bobbie? What happens if whatever the hell that is on Venus rises up and finds us as divided and screwed up and ineffective as we are right now?"
+        },
+        {
+          "Index": 4,
+          "Character": "Bobbie",
+          "Quote": "I don't know."
+        }
+      ]
+    },
+    {
+      "Id": 42,
+      "Book": "Caliban's War",
+      "Chapter": "Chapter Forty-One: Avasarala",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Okay. What're we seeing?"
+        },
+        {
+          "Index": 1,
+          "Character": "Alex",
+          "Quote": "All the Earth destroyers hit high burn. Six g."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Are they going to Io?"
+        },
+        {
+          "Index": 3,
+          "Character": "Alex",
+          "Quote": "Oh, hell no."
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "Bobbie?"
+        },
+        {
+          "Index": 5,
+          "Character": "Bobbie",
+          "Quote": "Yeah."
+        },
+        {
+          "Index": 6,
+          "Character": "Avasarala",
+          "Quote": "That part where you told me I didn't understand the danger I was in?"
+        },
+        {
+          "Index": 7,
+          "Character": "Bobbie",
+          "Quote": "And you told me that I didn't how the game was played."
+        },
+        {
+          "Index": 8,
+          "Character": "Avasarala",
+          "Quote": "That part."
+        },
+        {
+          "Index": 9,
+          "Character": "Bobbie",
+          "Quote": "I remember. What about it?"
+        },
+        {
+          "Index": 10,
+          "Character": "Avasarala",
+          "Quote": "If you wanted to say 'I told you so,' this looks like the right time."
+        }
+      ]
+    },
+    {
+      "Id": 43,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter One: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "I swear to God. Miller, you better not be there when I turn around."
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "Hey."
+        }
+      ]
+    },
+    {
+      "Id": 44,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Twenty: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "It's getting old being the one who stays behind."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "You're not staying behind. You're keeping the crew alive while I do something really stupid. It's why we're an awesome team. You're the captain now."
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "That's a shit job and you know it."
+        }
+      ]
+    },
+    {
+      "Id": 45,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Twenty-Two: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "Everything okay?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Still just thinking about how incredibly stupid this is. Why didn't I let you talk me out of it?"
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "It looks like you did, but it took a couple of hours for it to process. Want us to come get you?"
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "No. If I bail out now, I'll never have the balls to try it again."
+        }
+      ]
+    },
+    {
+      "Id": 46,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Twenty-Two: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Miller?"
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "Hey. There are others coming. They yours?"
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Not mine, no. That would be the skiff full of Martian recon marines that are coming to arrest me. Or maybe just shoot me. It's complicated."
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "You've been making friends without me."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "How are you doing? You seem more coherent than usual."
+        },
+        {
+          "Index": 5,
+          "Character": "Miller",
+          "Quote": "How do you mean?"
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "Usually when we talk, it's like only half the signal's getting through."
+        },
+        {
+          "Index": 7,
+          "Character": "Miller",
+          "Quote": "You've seen me before?"
+        },
+        {
+          "Index": 8,
+          "Character": "Holden",
+          "Quote": "On and off for the last year or so."
+        },
+        {
+          "Index": 9,
+          "Character": "Miller",
+          "Quote": "Well, that's pretty disturbing,"
+        }
+      ]
+    },
+    {
+      "Id": 47,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Twenty-Five: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "The most complex simulation in the history of your solar system is running right now so that we can pretend I'm here in the same room with you. The correct response is being flattered. Also, doing what the fuck I need you to do."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "That would be?"
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "Touching that big thing in the middle of the room."
+        }
+      ]
+    },
+    {
+      "Id": 48,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Twenty-Five: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "What will happen?"
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "How much do you know about quantum mechanics?"
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "How much do you?"
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "A lot, turns out. Do now, anyway."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "I'm not going to burst into flames or something, right?"
+        },
+        {
+          "Index": 5,
+          "Character": "Miller",
+          "Quote": "Don't think so. I'm not up on all the defense systems. But I don't think so."
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "So. Maybe?"
+        },
+        {
+          "Index": 7,
+          "Character": "Miller",
+          "Quote": "Yeah."
+        },
+        {
+          "Index": 8,
+          "Character": "Holden",
+          "Quote": "Okay."
+        }
+      ]
+    },
+    {
+      "Id": 49,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Thirty: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "You’ve got lousy taste in friends."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Where the hell have you been?"
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "Time's hard. Anyway, we were talking about something."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "The station. The lockdown."
+        },
+        {
+          "Index": 4,
+          "Character": "Miller",
+          "Quote": "Right. That. So the thing is, as long as there's a shitload of high energy floating around, the station's not going to get comfortable. You guys have, what? Twenty big ships?"
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "About that, I guess."
+        },
+        {
+          "Index": 6,
+          "Character": "Miller",
+          "Quote": "They've all got fusion reactions. They've all got massive internal power grids. Not a big deal by themselves, but the station's been spooked a couple times. It's jumpy. You're going to have to give it a little massage. Show that you're not a threat."
+        },
+        {
+          "Index": 7,
+          "Character": "Miller",
+          "Quote": "Do that, and I'm pretty sure I can get you moving again. That or it'll break you all down to your component atoms."
+        },
+        {
+          "Index": 8,
+          "Character": "Holden",
+          "Quote": "It'll what?"
+        },
+        {
+          "Index": 9,
+          "Character": "Miller",
+          "Quote": "Sorry. Joke."
+        }
+      ]
+    },
+    {
+      "Id": 50,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Forty: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Alex",
+          "Quote": "Maybe that preacher can help us."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Yeah. Red seems like good people."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "No hitting on the preacher."
+        }
+      ]
+    },
+    {
+      "Id": 51,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Forty: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "We don't want to get in a gunfight."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Yeah. But if we're in one anyway, it'll be nice to have guns."
+        }
+      ]
+    },
+    {
+      "Id": 52,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Fifty-Two: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Where?"
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "This planet was in the catalog. Most Earth-like one I could find. Thought it'd be calming."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Am I here?"
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "Kid, I'm not even here. But we needed a place to talk, and this seemed nicer than a white void. I've got processing power to spare now."
+        }
+      ]
+    },
+    {
+      "Id": 53,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Fifty-Two: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "The gates are all open out there? You know. In reality?"
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "What's reality?"
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "The place where I live?"
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "Yeah, fine. The gates are all open."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "And are there invading fleets of monsters pouring through to kill us all?"
+        },
+        {
+          "Index": 5,
+          "Character": "Miller",
+          "Quote": "Not yet. Which is kind of interesting in its own way."
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "I was joking."
+        },
+        {
+          "Index": 7,
+          "Character": "Miller",
+          "Quote": "I wasn't."
+        }
+      ]
+    },
+    {
+      "Id": 54,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Fifty-Two: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "Someone fought a war here, kid. One that spanned this galaxy and maybe more. My team lost, and they're all gone now. A couple billion years gone. Who knows what's waiting on the other side of those doors?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "We'll find out, I guess."
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "Doors and corners,"
+        }
+      ]
+    },
+    {
+      "Id": 55,
+      "Book": "Abaddon's Gate",
+      "Chapter": "Chapter Fifty-Three: Clarissa",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Well, we have a major problem. We're out of coffee."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "We still got beer."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Yes. But beer is not coffee. I've put in a request with the Behemoth, but I haven't heard back, and I can't see going into the vast and unknown void without coffee."
+        },
+        {
+          "Index": 3,
+          "Character": "Alex",
+          "Quote": "The captain doesn't like the fake coffee the Roci makes. Gives him gas."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "It does not. That was one time."
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "More than once, Cap'n. And no offense, but it does smell like a squirrel crawled up your ass and died there."
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "Okay, you've got no room to complain. As I recall, I was the one who cleaned your bunk after that experiment with vodka goulash."
+        },
+        {
+          "Index": 7,
+          "Character": "Alex",
+          "Quote": "He's got a point. That was damn nasty."
+        },
+        {
+          "Index": 8,
+          "Character": "Amos",
+          "Quote": "I just about shat out my intestinal lining, that's true, but I'd still put that against the captain's coffee farts."
+        },
+        {
+          "Index": 9,
+          "Character": "Holden",
+          "Quote": "I don’t get gas. I just like the taste of real coffee better."
+        },
+        {
+          "Index": 10,
+          "Character": "Naomi",
+          "Quote": "Have I mentioned how nice it is to have another woman on the ship?"
+        }
+      ]
+    },
+    {
+      "Id": 56,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Two: Elvi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Elvi",
+          "Quote": "What happened?"
+        },
+        {
+          "Index": 1,
+          "Character": "Fayez",
+          "Quote": "The landing pad blew up."
+        },
+        {
+          "Index": 2,
+          "Character": "Elvi",
+          "Quote": "Oh. Do they do that?"
+        },
+        {
+          "Index": 3,
+          "Character": "Fayez",
+          "Quote": "No. No, they really don't."
+        }
+      ]
+    },
+    {
+      "Id": 57,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Three: Havelock",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Murtry",
+          "Quote": "How is the crew, Havelock?"
+        },
+        {
+          "Index": 1,
+          "Character": "Havelock",
+          "Quote": "Shocked, sir. Scared. Angry. They're scientists. They looked on the squatters as an annoyance and a threat to their data. For most of them, this is outside their experience."
+        },
+        {
+          "Index": 2,
+          "Character": "Murtry",
+          "Quote": "What are they going to do about it?"
+        },
+        {
+          "Index": 3,
+          "Character": "Havelock",
+          "Quote": "So far? Get drunk. Yell at each other or at us. Design theoretical judicial systems. Most of them seem to want the whole thing to just go away so they can get on with their research."
+        },
+        {
+          "Index": 4,
+          "Character": "Murtry",
+          "Quote": "God bless the eggheads. All right."
+        }
+      ]
+    },
+    {
+      "Id": 58,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Four: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Dammit. You ever get the sense that the universe is out to get you?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Sometimes I get the sense that the universe is out to get you. It's fun to watch."
+        }
+      ]
+    },
+    {
+      "Id": 59,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Four: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "...really just an excuse to wave their cocks at each other. So I'm thinking we send Holden."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Send Holden? Send Holden where? Where are we sending Holden?"
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "He's close when he's out at Medina, and everybody hates him equally, so we can argue he's impartial. He's got ties to you, Mars, me. He's a fucking awful choice for a diplomatic mission, so it makes him perfect."
+        },
+        {
+          "Index": 3,
+          "Character": "Avasarala",
+          "Quote": "Brief him, tell him the UN will pay for his time at double the usual rates, and get him on New Terra as fast as possible before this thing gets fucked up any worse than it already is."
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "If Fred is showing this to you, Holden, know that your home planet appreciates your service. Also try not to put your dick in this. It's fucked enough already."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "So … What the hell is she talking about? What's New Terra?"
+        }
+      ]
+    },
+    {
+      "Id": 60,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Four: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Fred",
+          "Quote": "The rules governing how a thousand planets are run are about to be made. This is the test case. You'll be going in as an impartial observer and mediator."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Me? As a mediator?"
+        },
+        {
+          "Index": 2,
+          "Character": "Fred",
+          "Quote": "The irony's not lost on me. But things have already started to go bad there, and we need someone keeping it from getting worse while three governments decide how the next one will work."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "You mean you want me to make it look like you're doing something while you figure out what to do."
+        }
+      ]
+    },
+    {
+      "Id": 61,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Seven: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "A thousand new worlds to explore, and we're still fighting over resources."
+        },
+        {
+          "Index": 1,
+          "Character": "Alex",
+          "Quote": "Well, I guess lithium is like real estate. Nobody's makin' any more of it."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "You did hear the part about a thousand new worlds, right?"
+        },
+        {
+          "Index": 3,
+          "Character": "Alex",
+          "Quote": "Maybe some of' em have more lithium, but maybe they don't. And this one definitely does. People used to think gold was worth fightin' over, and that shit gets made by every supernova, which means pretty much every planet around a G2 star will have some."
+        },
+        {
+          "Index": 4,
+          "Character": "Alex",
+          "Quote": "Stars burn through lithium as fast as they make it. All the available ore got made at the big bang, and we're not doin' another one of those. Now that's scarcity, friend."
+        }
+      ]
+    },
+    {
+      "Id": 62,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Seven: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "What will we find down on Ilus? What are you looking for?"
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "Same thing as always. Who done it. After all, something killed off the civilization that built all this."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "And how will we know when we've found it?"
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "Oh. We'll know."
+        }
+      ]
+    },
+    {
+      "Id": 63,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Eleven: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "Captain. Have you actually learned from your past? Is this a new thing you do now?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Why do I put up with your shit?"
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "Because I'm the only one on the ship that can keep the coffee maker running."
+        }
+      ]
+    },
+    {
+      "Id": 64,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Eleven: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "Get the feeling we may be in over our heads here?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Feels about normal to me."
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "Yep."
+        }
+      ]
+    },
+    {
+      "Id": 65,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Eleven: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "I know who you are."
+        },
+        {
+          "Index": 1,
+          "Character": "Murtry",
+          "Quote": "Who am I?"
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "A killer. You've got a nifty excuse and the shiny badge to make you seem right, but that's not what this is about. You got off on smoking that guy in front of everyone. You can't wait to do it again."
+        },
+        {
+          "Index": 3,
+          "Character": "Murtry",
+          "Quote": "Is that right?"
+        },
+        {
+          "Index": 4,
+          "Character": "Amos",
+          "Quote": "Yeah. So, one killer to another, you don't want to try that shit with us."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "Amos, easy."
+        },
+        {
+          "Index": 6,
+          "Character": "Murtry",
+          "Quote": "That sounded like a threat."
+        },
+        {
+          "Index": 7,
+          "Character": "Amos",
+          "Quote": "Oh, it really was."
+        },
+        {
+          "Index": 8,
+          "Character": "Holden",
+          "Quote": "Hey, now."
+        },
+        {
+          "Index": 9,
+          "Character": "Murtry",
+          "Quote": "I think maybe one of us is going to end bloody."
+        },
+        {
+          "Index": 10,
+          "Character": "Amos",
+          "Quote": "How about now? I'm free now. We can just skip all the middle part."
+        }
+      ]
+    },
+    {
+      "Id": 66,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Fourteen: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "So. How'd it go?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "I must have done it right. Everyone's pissed."
+        }
+      ]
+    },
+    {
+      "Id": 67,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Fourteen: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "You know what I hate about you?"
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "My hat?"
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "That too. But mostly it's that I hate everything you say, but you're not always wrong."
+        }
+      ]
+    },
+    {
+      "Id": 68,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Twenty-Three: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Murtry",
+          "Quote": "Keep barking, dog. We both know there's no bite coming. You shoot me, she's dead."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "You won't know."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Don't, Amos."
+        },
+        {
+          "Index": 3,
+          "Character": "Murtry",
+          "Quote": "Oh, do."
+        },
+        {
+          "Index": 4,
+          "Character": "Amos",
+          "Quote": "I'm gonna kill you."
+        },
+        {
+          "Index": 5,
+          "Character": "Murtry",
+          "Quote": "When?"
+        },
+        {
+          "Index": 6,
+          "Character": "Amos",
+          "Quote": "That is exactly the question that should stay on your mind,"
+        }
+      ]
+    },
+    {
+      "Id": 69,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Twenty-Three: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "Should I pretend I'm not inside your head? I'll do it if it makes you more comfortable."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Hey, Miller. What am I thinking now?"
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "Points for creativity, kid. That'd be difficult to pull off and less fun than you might expect."
+        }
+      ]
+    },
+    {
+      "Id": 70,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Twenty-Five: Basia",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Alex",
+          "Quote": "How's the captain doing?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Not great. And once again he stopped me from doing the obvious thing."
+        },
+        {
+          "Index": 2,
+          "Character": "Alex",
+          "Quote": "Shooting the RCE chief in the face?"
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Awww. Warms my heart how well you know me."
+        },
+        {
+          "Index": 4,
+          "Character": "Alex",
+          "Quote": "They got her, buddy. Don't do anything that makes it worse."
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "Yeah, yeah."
+        },
+        {
+          "Index": 6,
+          "Character": "Alex",
+          "Quote": "You just watch the captain's back down there. I'll take care of our XO."
+        },
+        {
+          "Index": 7,
+          "Character": "Amos",
+          "Quote": "If they hurt her?"
+        },
+        {
+          "Index": 8,
+          "Character": "Alex",
+          "Quote": "Then it'll be rainin' RCE parts down on Ilus for a year."
+        },
+        {
+          "Index": 9,
+          "Character": "Amos",
+          "Quote": "Won't actually help."
+        },
+        {
+          "Index": 10,
+          "Character": "Alex",
+          "Quote": "No. No, it won't. It'll happen, though."
+        }
+      ]
+    },
+    {
+      "Id": 71,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Twenty-Nine: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "I miss planets."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "I don't."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "You never miss a breeze? The sun on your skin? A gentle rain?"
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Those are not the parts of planetary life that imprinted on my memory."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "Want to talk about it?"
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "Nope."
+        }
+      ]
+    },
+    {
+      "Id": 72,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Twenty-Nine: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Better head back, I guess. Might have an RCE reply to my requests."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Yeah. If the RCE bigwigs sent a reply seconds after receiving your message, they should be arriving just about now."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "I won't let your facts about light delay get in the way of my optimism."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Not much does."
+        }
+      ]
+    },
+    {
+      "Id": 73,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Thirty-Three: Basia",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "There a problem?"
+        },
+        {
+          "Index": 1,
+          "Character": "Alex",
+          "Quote": "Yeah, so, fusion don't work no more."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "If that's the punch line, I don't get it."
+        },
+        {
+          "Index": 3,
+          "Character": "Alex",
+          "Quote": "Wasn't a joke. Just yanked the reactor apart. Injector works, fuel pellets drop, laser array fires, magnetic bottle is stable. All the parts that make it a fusion reactor work just fine. Only, you know, without the fusing."
+        }
+      ]
+    },
+    {
+      "Id": 74,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Thirty-Six: Havelock",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "You all right?"
+        },
+        {
+          "Index": 1,
+          "Character": "Havelock",
+          "Quote": "I'm fine."
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "I just ask because you're sighing a lot."
+        },
+        {
+          "Index": 3,
+          "Character": "Havelock",
+          "Quote": "Am I?"
+        },
+        {
+          "Index": 4,
+          "Character": "Naomi",
+          "Quote": "Five times in the last minute. Before the reactor died, it was one every two minutes. On average."
+        },
+        {
+          "Index": 5,
+          "Character": "Havelock",
+          "Quote": "You need a hobby."
+        },
+        {
+          "Index": 6,
+          "Character": "Naomi",
+          "Quote": "Oh, I really do."
+        }
+      ]
+    },
+    {
+      "Id": 75,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Forty-Two: Havelock",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "First mutiny?"
+        },
+        {
+          "Index": 1,
+          "Character": "Havelock",
+          "Quote": "Yeah. It's not really something I do."
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "It gets easier."
+        }
+      ]
+    },
+    {
+      "Id": 76,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Forty-Three: Basia",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Alex",
+          "Quote": "There're four guys tailing you right now. Do we know about them?"
+        },
+        {
+          "Index": 1,
+          "Character": "Havelock",
+          "Quote": "Yeah, those are the militia I formed and trained. In retrospect, that's seeming like a bad idea."
+        },
+        {
+          "Index": 2,
+          "Character": "Alex",
+          "Quote": "Do you want me to take care of that?"
+        },
+        {
+          "Index": 3,
+          "Character": "Havelock",
+          "Quote": "Does your version of 'taking care of it' involve your ship's point defense cannons?"
+        },
+        {
+          "Index": 4,
+          "Character": "Alex",
+          "Quote": "Uh. Yeah?"
+        },
+        {
+          "Index": 5,
+          "Character": "Havelock",
+          "Quote": "Then no. These guys are dumb and untrained enough to still be gung-ho. But they're just engineers. They're not bad guys,"
+        }
+      ]
+    },
+    {
+      "Id": 77,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Forty-Four: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Murtry's pissed about the rescue."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Yeah, but fuck him."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "I also may have shoved him down and stolen his hand terminal."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Stop making me fall in love with you, Cap, we both know it can't go anywhere."
+        }
+      ]
+    },
+    {
+      "Id": 78,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Forty-Six: Elvi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Elvi",
+          "Quote": "Did Holden say anything to you before he, ah, left?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Yep."
+        },
+        {
+          "Index": 2,
+          "Character": "Elvi",
+          "Quote": "Was it about going north?"
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Not in particular, but I knew he was going someplace in case he could get Miller to turn the fusion reactors back on for us."
+        },
+        {
+          "Index": 4,
+          "Character": "Elvi",
+          "Quote": "Miller?"
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "Yeah, that's a long story. Pretty much all the cap had for me was to make sure that one didn't get uppity and start killing folks again."
+        },
+        {
+          "Index": 6,
+          "Character": "Elvi",
+          "Quote": "He's going after Holden."
+        },
+        {
+          "Index": 7,
+          "Character": "Amos",
+          "Quote": "Hmm. Don't know if that makes my job harder or easier."
+        }
+      ]
+    },
+    {
+      "Id": 79,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Forty-Six: Elvi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Fayez",
+          "Quote": "Why you're chasing after Holden again."
+        },
+        {
+          "Index": 1,
+          "Character": "Elvi",
+          "Quote": "I'm not chasing after Holden."
+        },
+        {
+          "Index": 2,
+          "Character": "Elvi",
+          "Quote": "You know I'm not chasing after Holden, don't you? Because that's … I mean, no."
+        },
+        {
+          "Index": 3,
+          "Character": "Fayez",
+          "Quote": "Then why?"
+        },
+        {
+          "Index": 4,
+          "Character": "Elvi",
+          "Quote": "Because I want to see. It's why I came out here. It's why I've been spending all my time taking samples and running assays. I love what I do, and what I do is go look at things."
+        },
+        {
+          "Index": 5,
+          "Character": "Elvi",
+          "Quote": "Holden said he was talking to aliens, and that he might be able to turn off the defense grid, and it means we're going to drive through the wilderness —"
+        },
+        {
+          "Index": 6,
+          "Character": "Fayez",
+          "Quote": "What's left of it."
+        },
+        {
+          "Index": 7,
+          "Character": "Elvi",
+          "Quote": "And because I'm going to die. We're all going to die. And we're all very probably going to die very, very soon. And my choices are to go out and look at this amazing, strange, beautiful, ruined world or else stay in the camp and watch everyone around me die by centimeters."
+        },
+        {
+          "Index": 8,
+          "Character": "Elvi",
+          "Quote": "And I'm a coward and a hedonist and I'm sometimes very, very selfish."
+        },
+        {
+          "Index": 9,
+          "Character": "Fayez",
+          "Quote": "You know. Between the two of us, I always thought of myself as more along those lines."
+        },
+        {
+          "Index": 10,
+          "Character": "Elvi",
+          "Quote": "I know."
+        }
+      ]
+    },
+    {
+      "Id": 80,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Forty-Six: Elvi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "Those the supplies, doc?"
+        },
+        {
+          "Index": 1,
+          "Character": "Elvi",
+          "Quote": "They're what we've got to work with."
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "All right then. I got the signal from the captain's hand terminal locked in. We got maybe a week's worth of gas, and the guy I'm after's got a day's head start."
+        },
+        {
+          "Index": 3,
+          "Character": "Elvi",
+          "Quote": "I wish we had sunglasses. Or a pizza."
+        },
+        {
+          "Index": 4,
+          "Character": "Amos",
+          "Quote": "Fallen fucking world, doc."
+        }
+      ]
+    },
+    {
+      "Id": 81,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Forty-Six: Elvi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Elvi",
+          "Quote": "Stop. Could you please stop. Just for a minute?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "You need a potty break, you should have thought of that before we started."
+        },
+        {
+          "Index": 2,
+          "Character": "Elvi",
+          "Quote": "Chances are I'm not coming back."
+        },
+        {
+          "Index": 3,
+          "Character": "Fayez",
+          "Quote": "I know."
+        },
+        {
+          "Index": 4,
+          "Character": "Amos",
+          "Quote": "Kind of need to get a move on, doc. Don't mean to be a buzz-kill or nothing."
+        },
+        {
+          "Index": 5,
+          "Character": "Elvi",
+          "Quote": "I understand. Are you getting up here?"
+        },
+        {
+          "Index": 6,
+          "Character": "Amos",
+          "Quote": "Is he what?"
+        },
+        {
+          "Index": 7,
+          "Character": "Fayez",
+          "Quote": "Of course I am."
+        },
+        {
+          "Index": 8,
+          "Character": "Amos",
+          "Quote": "Don't remember this was part of the deal, doc."
+        },
+        {
+          "Index": 9,
+          "Character": "Elvi",
+          "Quote": "It's kind of like our honeymoon."
+        },
+        {
+          "Index": 10,
+          "Character": "Amos",
+          "Quote": "Whatever floats your boat."
+        }
+      ]
+    },
+    {
+      "Id": 82,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Forty-Eight: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "There's a damaged piece of the system ahead, and I'd hoped we'd be able to get around it. No such luck. We're on foot from here."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Your fancy alien train is broken?"
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "My fancy alien material transfer system has been sitting unused for over a billion years and half the planet just exploded. Your ship was built less than a decade ago and you can barely keep the coffee pot running."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "You are a sad, bitter little man."
+        }
+      ]
+    },
+    {
+      "Id": 83,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Forty-Eight: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Hey Miller. We're still friends, right?"
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "What? Ah, I see. When I'm a ghost, you yell at me, tell me to get lost, say you'll find a way to kill me. Now I'm wearing the shell of an invincible wrecking machine and you want to be buddies again?"
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Yeah, pretty much."
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "Nah, we're good."
+        }
+      ]
+    },
+    {
+      "Id": 84,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Fifty-Two: Elvi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "What about Amos? Where's he?"
+        },
+        {
+          "Index": 1,
+          "Character": "Elvi",
+          "Quote": "Murtry shot him. I think he's dead."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Amos isn't dead."
+        },
+        {
+          "Index": 3,
+          "Character": "Elvi",
+          "Quote": "How do you know?"
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "If Amos goes down, it's because literally everyone else there has already died. We're still alive, so Amos is too."
+        },
+        {
+          "Index": 5,
+          "Character": "Miller",
+          "Quote": "Don't pay too much attention to him. He gets a little romantic about these things. If you say the bald guy's dead, I believe you."
+        },
+        {
+          "Index": 6,
+          "Character": "Elvi",
+          "Quote": "Thank you. I am sorry about it, though. I liked him."
+        }
+      ]
+    },
+    {
+      "Id": 85,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Fifty-Two: Elvi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "This is Detective Miller. He died when Eros hit Venus and now he's a puppet of the protomolecule."
+        },
+        {
+          "Index": 1,
+          "Character": "Miller",
+          "Quote": "Semi-autonomous."
+        },
+        {
+          "Index": 2,
+          "Character": "Elvi",
+          "Quote": "Pleased to meet you."
+        },
+        {
+          "Index": 3,
+          "Character": "Miller",
+          "Quote": "Likewise."
+        }
+      ]
+    },
+    {
+      "Id": 86,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Fifty-Two: Elvi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "So, you need to look for anything, you know, odd. Something that doesn't seem like it fits."
+        },
+        {
+          "Index": 1,
+          "Character": "Elvi",
+          "Quote": "You mean like that?"
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "Like what?"
+        },
+        {
+          "Index": 3,
+          "Character": "Elvi",
+          "Quote": "That. In the middle of the room. That."
+        },
+        {
+          "Index": 4,
+          "Character": "Miller",
+          "Quote": "I don't see anything. What's it look like?"
+        },
+        {
+          "Index": 5,
+          "Character": "Elvi",
+          "Quote": "The eye of an angry God?"
+        },
+        {
+          "Index": 6,
+          "Character": "Miller",
+          "Quote": "Oh. Yeah, well that's probably it, then. Good work."
+        }
+      ]
+    },
+    {
+      "Id": 87,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Fifty-Four: Elvi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Miller",
+          "Quote": "It may be a little heavy."
+        },
+        {
+          "Index": 1,
+          "Character": "Elvi",
+          "Quote": "It's like ninety kilos."
+        },
+        {
+          "Index": 2,
+          "Character": "Miller",
+          "Quote": "And I'm really sorry about that, but we need to get it into that dead spot now. Try sliding your arms under it and lifting with your back and legs. Just like it was a baby."
+        },
+        {
+          "Index": 3,
+          "Character": "Elvi",
+          "Quote": "Baby made from fucking tungsten."
+        }
+      ]
+    },
+    {
+      "Id": 88,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Fifty-Five: Havelock",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Alex",
+          "Quote": "It'd help a lot if we had Amos, though."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Amos is a little shook up too."
+        },
+        {
+          "Index": 2,
+          "Character": "Alex",
+          "Quote": "He all right?"
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "He's gonna need to grow some new fingers."
+        },
+        {
+          "Index": 4,
+          "Character": "Alex",
+          "Quote": "We can do that. Um. Give me a couple days, I might be able to bring the Roci down to the surface. Get him into the med bay."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "Don't hurry. Take your time, make sure everything's working. We can't take another crisis."
+        },
+        {
+          "Index": 6,
+          "Character": "Alex",
+          "Quote": "There's always going to be another crisis, Cap. That's just how it goes."
+        }
+      ]
+    },
+    {
+      "Id": 89,
+      "Book": "Cibola Burn",
+      "Chapter": "Chapter Fifty-Six: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "You guys were amazing. But next time don't let the bad guys capture you."
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "Hey, I rescued myself."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Been meaning to ask about that. How exactly did you persuade your jailer to come over to our side?"
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "It was prison. People do all sorts of things they wouldn't normally do in extreme circumstances like that. You sure you want to know?"
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "I don't care even a little."
+        }
+      ]
+    },
+    {
+      "Id": 90,
+      "Book": "Cibola Burn",
+      "Chapter": "Epilogue: Avasarala",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Fred",
+          "Quote": "Do you have a minute?"
+        },
+        {
+          "Index": 1,
+          "Character": "Avasarala",
+          "Quote": "For the military head to the largest terrorist organization in known space? How could I not. What's on your mind?"
+        },
+        {
+          "Index": 2,
+          "Character": "Fred",
+          "Quote": "I'm sorry I couldn't support you more in there. But you understand how it is."
+        },
+        {
+          "Index": 3,
+          "Character": "Avasarala",
+          "Quote": "I do. We'll do what we can around the edges, the same as we always do."
+        },
+        {
+          "Index": 4,
+          "Character": "Fred",
+          "Quote": "We have a lot of Belters in those ships. If I take too hard a line with them, it'll be worse than taking one that's too soft."
+        },
+        {
+          "Index": 5,
+          "Character": "Avasarala",
+          "Quote": "You don't have to apologize to me."
+        },
+        {
+          "Index": 6,
+          "Character": "Fred",
+          "Quote": "We're both constrained by the realities of the situation."
+        }
+      ]
+    },
+    {
+      "Id": 91,
+      "Book": "Cibola Burn",
+      "Chapter": "Epilogue: Avasarala",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Bobbie",
+          "Quote": "And how have you been?"
+        },
+        {
+          "Index": 1,
+          "Character": "Avasarala",
+          "Quote": "All right, over all. I got a new hip. Arjun says it makes me cranky."
+        },
+        {
+          "Index": 2,
+          "Character": "Bobbie",
+          "Quote": "He can tell?"
+        },
+        {
+          "Index": 3,
+          "Character": "Avasarala",
+          "Quote": "He's got a lot of practice. I fucking hate the new job, though. Assistant to the undersecretary was perfect for me. All the power, less of the bullshit. Now with the promotion, I have to travel. Meet with people."
+        },
+        {
+          "Index": 4,
+          "Character": "Bobbie",
+          "Quote": "You met with people before. That's what you do. You meet with people."
+        },
+        {
+          "Index": 5,
+          "Character": "Avasarala",
+          "Quote": "Now I have to go there first. I don't like being on a ship for weeks to have a conversation I could have had over a link from my own fucking desk."
+        },
+        {
+          "Index": 6,
+          "Character": "Bobbie",
+          "Quote": "Yeah. I think I see what Arjun meant."
+        }
+      ]
+    },
+    {
+      "Id": 92,
+      "Book": "Cibola Burn",
+      "Chapter": "Epilogue: Avasarala",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "The problem, is that I trusted James Holden. Not to do anything I told him to. I'm not an idiot. But I thought he would be himself."
+        },
+        {
+          "Index": 1,
+          "Character": "Bobbie",
+          "Quote": "Himself, how?"
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "Do you know how many ships are on track to the Ring? Right now, right now, we have sixteen hundred ships, and every one of them has been watching New Terra like they were reading fucking tea leaves."
+        },
+        {
+          "Index": 3,
+          "Character": "Avasarala",
+          "Quote": "Johnson and I sent Holden to mediate because he was the perfect person to show what a clusterfuck it was out there. How ugly it could be."
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "I was expecting press releases every time someone sneezed. The man starts wars all the fucking time, only this time, when I needed a little conflict? Now he's the fucking peacemaker."
+        },
+        {
+          "Index": 5,
+          "Character": "Bobbie",
+          "Quote": "I don't understand. Why did you want conflict?"
+        },
+        {
+          "Index": 6,
+          "Character": "Avasarala",
+          "Quote": "To put the brakes on. To save Mars."
+        }
+      ]
+    },
+    {
+      "Id": 93,
+      "Book": "Cibola Burn",
+      "Chapter": "Epilogue: Avasarala",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "Do you know what happens to Mars if twenty percent of the population leaves?"
+        },
+        {
+          "Index": 1,
+          "Character": "Bobbie",
+          "Quote": "The terraforming project shuts down?"
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "The terraforming project shuts down. And upkeep on the basic infrastructure becomes harder. The tax base collapses. The economy craters. The Martian state fails. That is going to happen, and the one chance we had to keep it in check is gone."
+        },
+        {
+          "Index": 3,
+          "Character": "Avasarala",
+          "Quote": "You will have a shell of a government with a planet nobody wants because nobody needs."
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "The raw materials they have to put on the market are now abundant in a thousand new systems where the mining is simple and you don't choke to death on vacuum if the rig fails out."
+        },
+        {
+          "Index": 5,
+          "Character": "Avasarala",
+          "Quote": "And the one thing — the one thing — you have left you can sell? Your one resource?"
+        },
+        {
+          "Index": 6,
+          "Character": "Bobbie",
+          "Quote": "Is fifteen thousand nuclear weapons."
+        },
+        {
+          "Index": 7,
+          "Character": "Avasarala",
+          "Quote": "And the ships to use them. Who's going to have those ships when Mars is a ghost town, Bobbie? Where are they going to go? Who are they going to kill? We're all moving out our pawns for the first interstellar military conflict."
+        },
+        {
+          "Index": 8,
+          "Character": "Avasarala",
+          "Quote": "And James Holden, who could have made New Terra a poster for why you might rather stay home and give us a little breathing room, instead found a bright new way to fuck things up."
+        },
+        {
+          "Index": 9,
+          "Character": "Bobbie",
+          "Quote": "By succeeding?"
+        },
+        {
+          "Index": 10,
+          "Character": "Avasarala",
+          "Quote": "By some definition of that word."
+        },
+        {
+          "Index": 11,
+          "Character": "Bobbie",
+          "Quote": "The planet blew up on him."
+        },
+        {
+          "Index": 12,
+          "Character": "Avasarala",
+          "Quote": "Small favors."
+        },
+        {
+          "Index": 13,
+          "Character": "Bobbie",
+          "Quote": "Well. Shit."
+        }
+      ]
+    },
+    {
+      "Id": 94,
+      "Book": "Cibola Burn",
+      "Chapter": "Epilogue: Avasarala",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Bobbie",
+          "Quote": "This dinner. We're at a recruitment meeting, aren't we?"
+        },
+        {
+          "Index": 1,
+          "Character": "Avasarala",
+          "Quote": "Bobbie, as long as we're all pushing out our pieces …"
+        },
+        {
+          "Index": 2,
+          "Character": "Bobbie",
+          "Quote": "Yes?"
+        },
+        {
+          "Index": 3,
+          "Character": "Avasarala",
+          "Quote": "I need to put you back on the board, soldier."
+        }
+      ]
+    },
+    {
+      "Id": 95,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter One: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Fred",
+          "Quote": "A year and a half from now human social structures in this galaxy will be unrecognizable."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "The diaspora."
+        },
+        {
+          "Index": 2,
+          "Character": "Fred",
+          "Quote": "If that's what you want to call it. I call it the land rush. A whole lot of covered wagons heading for the promised land."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "If Ilus was anything, it was a warning that a lot of people are going to die. Was anyone listening?"
+        },
+        {
+          "Index": 4,
+          "Character": "Fred",
+          "Quote": "Not really. You familiar with the land rush in North America?"
+
+        }
+      ]
+    },
+    {
+      "Id": 96,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter One: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Fred",
+          "Quote": "But Avasarala and Prime Minister Smith on Mars and the rest of the political wonks want to control this. And you've made sure they can't."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "So why are you happy?"
+        },
+        {
+          "Index": 2,
+          "Character": "Fred",
+          "Quote": "Because, I'm not trying to control it. Which is why I'll wind up in control of it. I'm playing the long game."
+        }
+      ]
+    },
+    {
+      "Id": 97,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter One: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "Hey, Cap'n, when do I get my ship back?"
+        },
+        {
+          "Index": 1,
+          "Character": "Alex",
+          "Quote": "Is that food?"
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "Not for a long time. We bent the mount."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Shit. I leave you guys alone for a couple weeks and you fuck my girl up."
+        },
+        {
+          "Index": 4,
+          "Character": "Alex",
+          "Quote": "Alien superweapons were used. The laws of physics were altered, mistakes were made."
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "Same shit, different day,"
+        }
+      ]
+    },
+    {
+      "Id": 98,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Three: Naomi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Hey, can I ask an inappropriate question?"
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "If memory serves."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Why didn't you and Amos ever get together? I mean back on the Cant."
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "Are you serious? Have you paid any attention at all to his sexuality?"
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "I don't think Amos and I are supposed to do that."
+        },
+        {
+          "Index": 5,
+          "Character": "Naomi",
+          "Quote": "It's not a place you want to be."
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "Hmm. Okay. I was just thinking, you know. How much he followed you around back on the Cant. And he's never talked about leaving the Roci."
+        },
+        {
+          "Index": 7,
+          "Character": "Naomi",
+          "Quote": "He's not staying on the Roci for me. He's staying for you."
+        },
+        {
+          "Index": 8,
+          "Character": "Holden",
+          "Quote": "Me?"
+        },
+        {
+          "Index": 9,
+          "Character": "Naomi",
+          "Quote": "He's using you as his external, aftermarket conscience."
+        },
+        {
+          "Index": 10,
+          "Character": "Holden",
+          "Quote": "No, he's not."
+        },
+        {
+          "Index": 11,
+          "Character": "Naomi",
+          "Quote": "It's what he does. Finds someone who has a sense of ethics and follows their lead. It's how he tries not to be a monster."
+        },
+        {
+          "Index": 12,
+          "Character": "Holden",
+          "Quote": "Why would he try not to be a monster?"
+        },
+        {
+          "Index": 13,
+          "Character": "Naomi",
+          "Quote": "Because he is one."
+        }
+      ]
+    },
+    {
+      "Id": 99,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Seven: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "What is this? Nap time? Someone wake him the fuck up."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Either I'm not in any trouble, or I'm in all of it. How you doin', Chrissie?"
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "Good to see you too. Call me that again and I'll have an officer beat you gently with a cattle prod."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Sure thing, Madam Uber Secretary. This a social call, or …?"
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "Why are you on Earth?"
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "Came to pay respects to a friend who died. Did I forget to file a form or something?"
+        },
+        {
+          "Index": 6,
+          "Character": "Avasarala",
+          "Quote": "Who? Who died?"
+        },
+        {
+          "Index": 7,
+          "Character": "Amos",
+          "Quote": "None of your fucking business."
+        }
+      ]
+    },
+    {
+      "Id": 100,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Seven: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "If you're here for Murtry, he isn't on Earth right now. He claims you beat him half to death in the Rocinante's airlock during the flight back. Do you mean to finish the job?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Murtry swung first, so technically, that was self-defense. And if I'd wanted him dead, don't you think he'd be dead? It's not like I quit hitting him because I was tired."
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "So what, then? If you have a message for me from Holden just spit it out. If Holden is sending messages to someone else, tell me who and what they are right now."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Holden didn't send me to do shit. Am I repeating myself? I feel like I'm repeating myself."
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "He —"
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "He's the captain of the ship I sail on, he ain't the boss of my fucking life. I've got personal shit to do, and I came here to do it. Now either book me for something or let me go."
+        },
+        {
+          "Index": 6,
+          "Character": "Avasarala",
+          "Quote": "You're fucking serious, aren't you?"
+        },
+        {
+          "Index": 7,
+          "Character": "Amos",
+          "Quote": "Not known for my comic stylings."
+        },
+        {
+          "Index": 8,
+          "Character": "Avasarala",
+          "Quote": "All right. But you understand my concern."
+        },
+        {
+          "Index": 9,
+          "Character": "Amos",
+          "Quote": "That Holden is up to something? Have you met that guy? He's never done anything secretly in his life."
+        },
+        {
+          "Index": 10,
+          "Character": "Avasarala",
+          "Quote": "True. But if he's sending his hired killer to Earth, we —"
+        },
+        {
+          "Index": 11,
+          "Character": "Amos",
+          "Quote": "Wait, what?"
+        },
+        {
+          "Index": 12,
+          "Character": "Avasarala",
+          "Quote": "If Holden was —"
+        },
+        {
+          "Index": 13,
+          "Character": "Amos",
+          "Quote": "Forget Holden. You called me his hired killer. Is that how you guys think of me? The killer on Holden's payroll?"
+        },
+        {
+          "Index": 14,
+          "Character": "Avasarala",
+          "Quote": "You're not?"
+        },
+        {
+          "Index": 15,
+          "Character": "Amos",
+          "Quote": "Well, mostly I'm a mechanic. But the idea that the UN has a file on me somewhere that lists me as the Rocinante's killer? That's kind of awesome."
+        }
+      ]
+    },
+    {
+      "Id": 101,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Seven: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "Well. Thank you for meeting with me, Mr. Burton."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Oh, it was my pleasure."
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "Please keep in mind that my name is pretty closely connected with the Rocinante, Captain Holden, and his crew at this point."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "So?"
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "So. If you're about to do something I'll need to cover up later, I'd appreciate a call first."
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "You got it, Chrissie."
+        },
+        {
+          "Index": 6,
+          "Character": "Avasarala",
+          "Quote": "Honestly. Fucking stop that."
+        }
+      ]
+    },
+    {
+      "Id": 102,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Eight: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "As far as I know, there isn't an active protomolecule culture in existence in the universe. But —"
+        },
+        {
+          "Index": 1,
+          "Character": "Fred",
+          "Quote": "But I've got the inactive stuff you gave me."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Right, and Monica knows about it somehow."
+        },
+        {
+          "Index": 3,
+          "Character": "Fred",
+          "Quote": "I've got a leak somewhere."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "Yeah, you totally do, but that isn't the part that worries me."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "Monica, has decided that we should take out the goo and use it like some sort of Ouija board to summon the ghost of Miller."
+        },
+        {
+          "Index": 6,
+          "Character": "Fred",
+          "Quote": "But that's stupid."
+        },
+        {
+          "Index": 7,
+          "Character": "Holden",
+          "Quote": "Right? So I think we should exhaust all other possibilities before we leap right to tinkering with alien viruses."
+        },
+        {
+          "Index": 8,
+          "Character": "Fred",
+          "Quote": "First time for everything, I guess. You have alternate theories?"
+        },
+        {
+          "Index": 9,
+          "Character": "Holden",
+          "Quote": "I do, but you won't like it."
+        },
+        {
+          "Index": 10,
+          "Character": "Fred",
+          "Quote": "I also still have bourbon if we need anesthetic for this operation."
+        }
+      ]
+    },
+    {
+      "Id": 103,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Twelve: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "Do you need a ride? If it gets you off my planet, I can give you a ride. What? Did I say something funny?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Naw, just reminded me of somebody. Anyway, I get the feeling this is the only trip down the well I'm ever going to take."
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "I'm crushed."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Since I'm here, I figured anything I might want to do, better do it now. Anyone I wanted to see, you know. Where did you guys wind up locking Peaches away?"
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "Peaches?"
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "The Mao girl. Clarissa. She flew with us for a few months back after she stopped trying to kill the captain. And I have to admit, she grew on me a little."
+        },
+        {
+          "Index": 6,
+          "Character": "Avasarala",
+          "Quote": "You fucked your prisoner?"
+        },
+        {
+          "Index": 7,
+          "Character": "Amos",
+          "Quote": "Nah. I don't tend to do that with people I like."
+        }
+      ]
+    },
+    {
+      "Id": 104,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Sixteen: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Fred",
+          "Quote": "You see her? Drummer?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Sure."
+        },
+        {
+          "Index": 2,
+          "Character": "Fred",
+          "Quote": "I've been working with her directly for three years. Knew who she was for ten before that."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "All right."
+        },
+        {
+          "Index": 4,
+          "Character": "Fred",
+          "Quote": "If you'd asked me yesterday, I'd have told you I trusted her with my life."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "Now?"
+        },
+        {
+          "Index": 6,
+          "Character": "Fred",
+          "Quote": "Now there is exactly one person on this station who I'm certain isn't going to shoot me in the back of the head if I keep pressing on this, and that's you."
+        }
+      ]
+    },
+    {
+      "Id": 105,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Sixteen: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Fred",
+          "Quote": "What did you do?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "There was a button, I pushed it."
+        },
+        {
+          "Index": 2,
+          "Character": "Fred",
+          "Quote": "Jesus Christ. That really is how you go through life, isn't it?"
+        }
+      ]
+    },
+    {
+      "Id": 106,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Twenty: Alex",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "... as a community, Mars has got its collective asshole puckered up so tight it's bending light. But the prime minister's convoy has finally launched."
+        },
+        {
+          "Index": 1,
+          "Character": "Avasarala",
+          "Quote": "When he gets to Luna, I'm hoping we can get him to say something that hasn't already been chewed by half a dozen diplomats playing cover-your-ass. At least he knows there's a problem. Realizing you've got shit on your fingers is the first step toward washing your hands."
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "In the meantime, you stay out of trouble. You're no good to anybody dead. And if that idiot Holden's plucking another thread in the same knot, God alone knows how he'll fuck it up. So. Report in when you can."
+        },
+        {
+          "Index": 3,
+          "Character": "Alex",
+          "Quote": "Well. She sounds the same as ever."
+        },
+        {
+          "Index": 4,
+          "Character": "Bobbie",
+          "Quote": "Give her that."
+        },
+        {
+          "Index": 5,
+          "Character": "Alex",
+          "Quote": "So when you said you were working with her? How different is that from working for her?"
+        },
+        {
+          "Index": 6,
+          "Character": "Bobbie",
+          "Quote": "I don't get paid, I guess."
+        }
+      ]
+    },
+    {
+      "Id": 107,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Twenty: Alex",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Alex",
+          "Quote": "Hey out there. We're the private ship Razorback out of Mars. Couldn't help noticing you're pointing a finger at us. We're not looking for any trouble. If you could see your way to answering back, it'd ease my mind."
+        },
+        {
+          "Index": 1,
+          "Character": "Bobbie",
+          "Quote": "They're not answering."
+        },
+        {
+          "Index": 2,
+          "Character": "Alex",
+          "Quote": "They're not shooting either. As long as they think we're just some yahoo out joyriding, we'll be fine. Probably."
+        }
+      ]
+    },
+    {
+      "Id": 108,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Twenty-four: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "You see, that's how you know they were using radar-absorbing coating on the rocks. Burned off and stopped working after they hit atmo, right? Anyway, you figure it went from the ionosphere to sea level in about half a second, so that's about two hundred klicks per."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "I'm making this up here, but the kind of bang they're talking about, you could do it with a block of tungsten carbide maybe three and a half, four meters to a side. That ain't big."
+        },
+        {
+          "Index": 2,
+          "Character": "Clarissa",
+          "Quote": "You can figure all that in your head?"
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "My job has been playing with magnetically contained fusion reactions for a lot of years now. It's the same kind of math, more or less. You get a feel for it."
+        },
+        {
+          "Index": 4,
+          "Character": "Clarissa",
+          "Quote": "I can see that. You think we're going to die?"
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "Yup."
+        },
+        {
+          "Index": 6,
+          "Character": "Clarissa",
+          "Quote": "Of this?"
+        },
+        {
+          "Index": 7,
+          "Character": "Amos",
+          "Quote": "Maybe."
+        },
+        {
+          "Index": 8,
+          "Character": "Clarissa",
+          "Quote": "I wish I'd seen my father again."
+        },
+        {
+          "Index": 9,
+          "Character": "Amos",
+          "Quote": "Yeah?"
+        },
+        {
+          "Index": 10,
+          "Character": "Clarissa",
+          "Quote": "If he'd done it? If he'd figured out how to control the protomolecule? Everything would have been different. This wouldn't be happening."
+        },
+        {
+          "Index": 11,
+          "Character": "Amos",
+          "Quote": "Something else would be. And if you'd ever seen that thing up close, you wouldn't think it was better."
+        }
+      ]
+    },
+    {
+      "Id": 109,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Twenty-four: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Clarissa",
+          "Quote": "We're ten stories underground."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Yeah."
+        },
+        {
+          "Index": 2,
+          "Character": "Clarissa",
+          "Quote": "If it was like this for us, how bad is it up top?"
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Don't know. Let's go see."
+        },
+        {
+          "Index": 4,
+          "Character": "Clarissa",
+          "Quote": "We're on lockdown. We're not going anywhere."
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "Thing is, for us to be in lockdown, this has to be a prison. For this to be a prison, there has to be, you know, a civilization out there. I think this just turned into a big hole in the ground with a bunch of dangerous people in it. We should leave."
+        }
+      ]
+    },
+    {
+      "Id": 110,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Thirty: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Clarissa",
+          "Quote": "What are we doing?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Seeing if he follows us. You know. In case."
+        },
+        {
+          "Index": 2,
+          "Character": "Clarissa",
+          "Quote": "You think he will?"
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Don't know. Thing about civilization, it's what keeps people civil. You get rid of one, you can't count on the other."
+        }
+      ]
+    },
+    {
+      "Id": 111,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Thirty: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Clarissa",
+          "Quote": "Is it bothering you?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "What?"
+        },
+        {
+          "Index": 2,
+          "Character": "Clarissa",
+          "Quote": "What we did."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Not sure what that was, Peaches."
+        },
+        {
+          "Index": 4,
+          "Character": "Clarissa",
+          "Quote": "We invaded a man's home, killed him, and took his stuff. If we hadn't come through, he might have made it. Lived until the sun came back. Survived."
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "He was gonna shoot me for no reason except that I had something he wanted."
+        },
+        {
+          "Index": 6,
+          "Character": "Clarissa",
+          "Quote": "He wouldn't have done it if we hadn't gone there. And we lied to him about wanting to trade."
+        },
+        {
+          "Index": 7,
+          "Character": "Amos",
+          "Quote": "Seems like you have a point to make, Peaches."
+        },
+        {
+          "Index": 8,
+          "Character": "Clarissa",
+          "Quote": "If he hadn't been ready to pull the trigger, would you have let it go? Or would we still be here, with these guns and this food?"
+        },
+        {
+          "Index": 9,
+          "Character": "Amos",
+          "Quote": "Oh, we were taking his shit. I'm just pointing out both sides of the argument had the same plan."
+        },
+        {
+          "Index": 10,
+          "Character": "Clarissa",
+          "Quote": "Then we're not exactly the good guys, are we?"
+        },
+        {
+          "Index": 11,
+          "Character": "Amos",
+          "Quote": "Yeah. I should really get back to the ship soon."
+        }
+      ]
+    },
+    {
+      "Id": 112,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Thirty-three: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Fred",
+          "Quote": "Holden?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Fred?"
+        },
+        {
+          "Index": 2,
+          "Character": "Fred",
+          "Quote": "Are you all right?"
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "Ah. Yes?"
+        },
+        {
+          "Index": 4,
+          "Character": "Fred",
+          "Quote": "I've been trying to reach your hand terminal for the past fifteen minutes."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "I may have left it in my pants. In my quarters. I think I did."
+        },
+        {
+          "Index": 6,
+          "Character": "Fred",
+          "Quote": "Are you drunk?"
+        },
+        {
+          "Index": 7,
+          "Character": "Holden",
+          "Quote": "I think I am."
+        },
+        {
+          "Index": 8,
+          "Character": "Fred",
+          "Quote": "And you're not wearing pants?"
+        },
+        {
+          "Index": 9,
+          "Character": "Holden",
+          "Quote": "I'm not ready to take our relationship there yet."
+        }
+      ]
+    },
+    {
+      "Id": 113,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Thirty-six: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "What the hell is this?"
+        },
+        {
+          "Index": 1,
+          "Character": "Fred",
+          "Quote": "Professionalism. Building rapport. Establishing trust. She's halfway convinced him that whoever he was working for was willing to crack the station open with him still inside it. Once he's come around, we'll own him."
+        },
+        {
+          "Index": 2,
+          "Character": "Fred",
+          "Quote": "That man will tell us everything we ask and then try to remember something we didn't think to dig for if we give him time. No one's as zealous as a convert."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "I think you're overlooking the beat-him-with-a-wrench stratagem. I favor it."
+        },
+        {
+          "Index": 4,
+          "Character": "Fred",
+          "Quote": "No you don't."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "In this case, I'd make an exception."
+        },
+        {
+          "Index": 6,
+          "Character": "Fred",
+          "Quote": "No. You wouldn't. Torture's for amateurs."
+        },
+        {
+          "Index": 7,
+          "Character": "Holden",
+          "Quote": "So? I don't do this professionally."
+        },
+        {
+          "Index": 8,
+          "Character": "Fred",
+          "Quote": "The reckless tough-guy version of you is almost as tiring as the relentless Boy Scout was. I'm hoping your pendulum swings hit middle sometime soon."
+        }
+      ]
+    },
+    {
+      "Id": 114,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Thirty-eight: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Clarissa",
+          "Quote": "Everything all right?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Sure,"
+        },
+        {
+          "Index": 2,
+          "Character": "Clarissa",
+          "Quote": "Talked them out of any unpleasant actions?"
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Me? Nope. They did most of that themselves. Best defense we've got right now is everyone's in the habit of not killing each other and taking their shit. Pretty soon, people are just going to start assuming anyone they don't know is out to slit their throats. If they're lucky."
+        },
+        {
+          "Index": 4,
+          "Character": "Clarissa",
+          "Quote": "You don't sound upset at the prospect."
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "I'm comfortable with it."
+        }
+      ]
+    },
+    {
+      "Id": 115,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Forty-five: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "Did he think I was joking about something?' Cause I was just telling him how the sun comes up in the east."
+        },
+        {
+          "Index": 1,
+          "Character": "Clarissa",
+          "Quote": "In his mind, we're the good guys. Everything we say, he interprets that way. If you say you don't care if he lives or dies, it must be your dry gallows humor."
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "Seriously?"
+        },
+        {
+          "Index": 3,
+          "Character": "Clarissa",
+          "Quote": "Yep."
+        },
+        {
+          "Index": 4,
+          "Character": "Amos",
+          "Quote": "That's a really stupid way to go through life."
+        },
+        {
+          "Index": 5,
+          "Character": "Clarissa",
+          "Quote": "It's how most people do."
+        },
+        {
+          "Index": 6,
+          "Character": "Amos",
+          "Quote": "Then most people are really stupid."
+        },
+        {
+          "Index": 7,
+          "Character": "Clarissa",
+          "Quote": "And yet we made it to the stars,"
+        }
+      ]
+    },
+    {
+      "Id": 116,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Forty-eight: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Alex",
+          "Quote": "Any word from Amos? Well, that doesn't mean much. It won't be the first time a planet's blown up on him."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "They're starting to get confirmed death lists. It's still early. A lot of things still falling apart down there, and there's going to be a lot more bad before it sees better. But he's not on the list yet."
+        },
+        {
+          "Index": 2,
+          "Character": "Alex",
+          "Quote": "So that's good. And c'mon. It's Amos. Everyone on Earth dies, and he'll probably stack the bodies and climb up to Luna."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "Last man standing."
+        }
+      ]
+    },
+    {
+      "Id": 117,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Forty-nine: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "What the fuck do you mean we can't go on the ship?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "No warrant. Nobody's getting on my boat here without a warrant."
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "Burton, for one thing, that's not your fucking ship."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "Sure it is. Salvage."
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "No. When you break into someone's private hangar and drive out in their ship, it's not salvage. That's still theft."
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "You sure about that? Because it was looking awfully busted up down there. I'm pretty sure that was salvage."
+        },
+        {
+          "Index": 6,
+          "Character": "Avasarala",
+          "Quote": "For another thing, we're under martial law, so I can do very nearly whatever the fuck I want. Including march through your precious little ship there towing you along behind in a ball gag and lacy underwear."
+        },
+        {
+          "Index": 7,
+          "Character": "Avasarala",
+          "Quote": "So your warrant bullshit? You can roll that up and fuck it. Now tell me why I'm here."
+        },
+        {
+          "Index": 8,
+          "Character": "Amos",
+          "Quote": "You know just' cause you can do something, it doesn't mean you should. I don't look great in frills."
+        },
+        {
+          "Index": 9,
+          "Character": "Avasarala",
+          "Quote": "Why am I here, Amos?"
+        },
+        {
+          "Index": 10,
+          "Character": "Amos",
+          "Quote": "Here's the thing. If you did go in there, you might feel like you had to do something. And then I might feel like I had to do something. And then we'd all be doing things, and we'd all wind up having a worse day, just in general."
+        },
+        {
+          "Index": 11,
+          "Character": "Avasarala",
+          "Quote": "You can skip this one. Go get a beer instead or something. It's all right."
+        },
+        {
+          "Index": 12,
+          "Character": "Avasarala",
+          "Quote": "Burton? You make goddamned sure there isn't any trouble from this, and you get her the fuck off my moon without anyone seeing her."
+        },
+        {
+          "Index": 13,
+          "Character": "Amos",
+          "Quote": "You got it, Chrissie."
+        },
+        {
+          "Index": 14,
+          "Character": "Avasarala",
+          "Quote": "Don't fucking call me that. I'm the acting secretary-general of the United Nations, not your favorite stripper."
+        },
+        {
+          "Index": 15,
+          "Character": "Amos",
+          "Quote": "Could be room for both."
+        }
+      ]
+    },
+    {
+      "Id": 118,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Forty-nine: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Clarissa",
+          "Quote": "I won't go back there."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Peaches, there's no there to go back to. And anyway, I'm pretty sure Chrissie knows you're on board here. She's not pushing the issue, so as long as we stay cool and act casual —"
+        },
+        {
+          "Index": 2,
+          "Character": "Clarissa",
+          "Quote": "Then what? You can't take me with you anymore, Amos. I can't go on the Rocinante. I tried to kill Holden. I tried to kill all of you. And I did kill people. Innocent people. That's never going away."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "In my shop, that's just fitting in. I appreciate that seeing the crew again could leave you feeling a little antsy, but we all know what you are. What you did. Including all the shit you did to us. This isn't new territory. We'll talk it through. Work something out."
+        },
+        {
+          "Index": 4,
+          "Character": "Clarissa",
+          "Quote": "I'm just afraid that if he doesn't back your play, they'll send me back, and —"
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "You're missing some shit here, Peaches. Lot of folks seem to be. Let me lay this out again. There's no back, and it ain't just the real estate. The government that put you in prison only sort of exists anymore."
+        },
+        {
+          "Index": 6,
+          "Character": "Amos",
+          "Quote": "The planet that put you in prison is going to be having billions of people die in the next little bit. Making sure you serve your whole term doesn't mean shit to them."
+        },
+        {
+          "Index": 7,
+          "Character": "Amos",
+          "Quote": "There's a new Navy between us and the Ring, and there's still a thousand solar systems out there to fuck up the way we fucked up this one."
+        },
+        {
+          "Index": 8,
+          "Character": "Amos",
+          "Quote": "Because what you're doing right now? Yeah, you're worrying about how it would go for you if none of that happened. And I'm thinking that you're doing it because you're not looking at the facts."
+        },
+        {
+          "Index": 9,
+          "Character": "Clarissa",
+          "Quote": "What facts?"
+        },
+        {
+          "Index": 10,
+          "Character": "Amos",
+          "Quote": "It ain't like that anymore."
+        },
+        {
+          "Index": 11,
+          "Character": "Clarissa",
+          "Quote": "What isn't?"
+        },
+        {
+          "Index": 12,
+          "Character": "Amos",
+          "Quote": "Any of it. With Earth puking itself to death and Mars a ghost town, everything's up for grabs. Who owns what. Who decides who owns what. How money works. Who gets to send people to prison."
+        },
+        {
+          "Index": 13,
+          "Character": "Amos",
+          "Quote": "Erich just called it the queen of all churns, and he ain't wrong about that. It's a new game."
+        }
+      ]
+    },
+    {
+      "Id": 119,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Fifty: Alex",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Alex",
+          "Quote": "You have to tell him."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "I'm gonna."
+        },
+        {
+          "Index": 2,
+          "Character": "Alex",
+          "Quote": "You have to tell him now. She's on our ship."
+        },
+        {
+          "Index": 3,
+          "Character": "Amos",
+          "Quote": "She was on our ship for months when we were coming back from the slow zone."
+        },
+        {
+          "Index": 4,
+          "Character": "Alex",
+          "Quote": "She was a prisoner. Because of all the people she killed. And now she's on our ship by herself."
+        },
+        {
+          "Index": 5,
+          "Character": "Amos",
+          "Quote": "I'll give you that does make this situation a little different."
+        }
+      ]
+    },
+    {
+      "Id": 120,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Fifty: Alex",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "Thank most of you for coming. I'd beat around the bush and make everyone feel at home, but I've been in meetings for the last thirty-six hours, and I'm cranky. We're all clear that Earth is fucked, yes?"
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "Hell yeah."
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "Good. Then I won't belabor the point. Along with that, the Martian Navy just shattered into tiny little pieces and Smith's too scared to call it treason."
+        },
+        {
+          "Index": 3,
+          "Character": "Bobbie",
+          "Quote": "Can I ask. How bad does that look?"
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "We're not making any official statements, especially when James Holden's in the room. No offense, but your track record for blurting information at inopportune moments is the stuff of legend."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "I'm getting better about that. But yeah. I understand."
+        }
+      ]
+    },
+    {
+      "Id": 121,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Fifty: Alex",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Avasarala",
+          "Quote": "The United Nations, with assistance from the Mars Republic and cooperation from the OPA, is going to field a task force to address the criminal conspiracy of pirates and terrorists going under the Free Navy name."
+        },
+        {
+          "Index": 1,
+          "Character": "Avasarala",
+          "Quote": "Not a war. A policing task force. And that's where you all come into play."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "You want me to lead it."
+        },
+        {
+          "Index": 3,
+          "Character": "Avasarala",
+          "Quote": "Yes, because literally every UN naval officer who wasn't dishonorably discharged is suddenly unavailable. For fuck's sake, Holden, I have crates of anti-herpes drugs that are more legitimately UN Navy than you are."
+        }
+      ]
+    },
+    {
+      "Id": 122,
+      "Book": "Nemesis Games",
+      "Chapter": "Chapter Fifty: Alex",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "So that immunity for the crew thing?"
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "It wasn't just for you."
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "Yeah, figured. But here's the thing. I was thinking about maybe taking on an apprentice. You know, help flesh out the crew. Get some skill redundancy."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "That's a good idea. Did you have someone in mind?"
+        }
+      ]
+    },
+    {
+      "Id": 123,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Three: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "Shit. And here I was enjoying being so absolutely thumb-up-the-ass useless."
+        },
+        {
+          "Index": 1,
+          "Character": "Avasarala",
+          "Quote": "You want a little ass-play, that's your business. Only you can do it in a crash couch. The Rocinante isn't part of the fleet, so losing it won't leave a hole in our defenses. And I understand you've got a few after-market add-ons —"
+        },
+        {
+          "Index": 2,
+          "Character": "Alex",
+          "Quote": "Keel-mounted rail gun."
+        },
+        {
+          "Index": 3,
+          "Character": "Avasarala",
+          "Quote": "— that scream of overcompensating for tiny, tiny penises, but might prove useful. The mission commander has requested you and your ship, and honestly none of you are worth a wet slap at this point except Miss Nagata anyway, so —"
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "Wait. The mission commander? No."
+        },
+        {
+          "Index": 5,
+          "Character": "Avasarala",
+          "Quote": "No?"
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "The Rocinante doesn't go under anyone's command but ours. I understand that this is a big joint task force and we're all in everything together. But the Roci isn't just a ship, it's our home."
+        },
+        {
+          "Index": 7,
+          "Character": "Holden",
+          "Quote": "If you want to hire us, fine. We'll take the job, and we'll get it done. If you want to put a commander in place and expect us to follow their orders, then the answer's no."
+        },
+        {
+          "Index": 8,
+          "Character": "Avasarala",
+          "Quote": "Captain Holden—"
+        },
+        {
+          "Index": 9,
+          "Character": "Holden",
+          "Quote": "This isn't a negotiation. This is just how it's going to be."
+        },
+        {
+          "Index": 10,
+          "Character": "Bobbie",
+          "Quote": "It's me."
+        },
+        {
+          "Index": 11,
+          "Character": "Holden",
+          "Quote": "What now?"
+        },
+        {
+          "Index": 12,
+          "Character": "Bobbie",
+          "Quote": "It's me. I'm the mission commander. But if you really don't—"
+        },
+        {
+          "Index": 13,
+          "Character": "Holden",
+          "Quote": "Oh. No. No, that's different."
+        },
+        {
+          "Index": 14,
+          "Character": "Alex",
+          "Quote": "Yeah."
+        },
+        {
+          "Index": 15,
+          "Character": "Amos",
+          "Quote": "Should have said so in the first place, Chrissy."
+        },
+        {
+          "Index": 16,
+          "Character": "Avasarala",
+          "Quote": "Go fuck yourself, Burton. I was getting to it."
+        }
+      ]
+    },
+    {
+      "Id": 124,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Nine: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "You knew that wasn't going to work."
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "I expected it wasn't. I didn't know."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Just suspected."
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "Strongly suspected. I could have been surprised."
+        }
+      ]
+    },
+    {
+      "Id": 125,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Nine: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "What about you? Want to talk?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "I do, but I don't know what to say. Here we are, the conquering heroes with prisoners and a salvaged data core, and it doesn't feel like enough."
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "It isn't."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "Always so comforting."
+        },
+        {
+          "Index": 4,
+          "Character": "Naomi",
+          "Quote": "I mean you're not wrong. You aren't uneasy and disturbed by all this because there's something wrong with you. This is all uneasing and disturbing. You aren't fucked up. The situation is."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "That doesn't … You know, that actually does make me feel a little better."
+        }
+      ]
+    },
+    {
+      "Id": 126,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Nine: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Bobbie",
+          "Quote": "This is how she does it. She finds a way to pay you."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "They told me they were all right. When I talked to them, they said they weren't in danger."
+        },
+        {
+          "Index": 2,
+          "Character": "Avasarala",
+          "Quote": "It was true, as far as it went. The reactors hadn't failed there yet. And they had more food stored than most. They might have lasted another … month? How should I know? Canning. Who the fuck does their own canning anymore?"
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "But you evacuated them."
+        },
+        {
+          "Index": 4,
+          "Character": "Avasarala",
+          "Quote": "Another week, another month. Not another year. They wouldn't have been safe forever, and once they realized they were fucked, all the slots would have been filled. I flagged them as priority evacuees. I get to do that kind of shit. I'm the boss."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "Where …"
+        },
+        {
+          "Index": 6,
+          "Character": "Avasarala",
+          "Quote": "They'll have quarters here or on L-4. Not as big as they had in Montana, but together. I can do that much. Maybe they'll even go back to their farm someday when all this is done. Stranger things have happened."
+        },
+        {
+          "Index": 7,
+          "Character": "Holden",
+          "Quote": "Thank you. I owe you one."
+        },
+        {
+          "Index": 8,
+          "Character": "Avasarala",
+          "Quote": "I know."
+        }
+      ]
+    },
+    {
+      "Id": 127,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Twelve: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "We can turn down the contract. Fred can find another ride."
+        },
+        {
+          "Index": 1,
+          "Character": "Amos",
+          "Quote": "I don't know, Cap. Things being what they are, I kind of like that we're getting work. I mean, as long as money still works."
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "Hey, does money still work?"
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "It does if we win. Free Navy ports weren't going to refit and refuel us anyway."
+        },
+        {
+          "Index": 4,
+          "Character": "Amos",
+          "Quote": "Right. So I kind of like that we're getting work."
+        }
+      ]
+    },
+    {
+      "Id": 128,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Twenty-Two: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Hey."
+        },
+        {
+          "Index": 1,
+          "Character": "Bobbie",
+          "Quote": "Sir."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Please don't call me sir. No one on the ship does. Everything all right? Fred want something?"
+        },
+        {
+          "Index": 3,
+          "Character": "Bobbie",
+          "Quote": "Johnson didn't send me. You're going out, and I'm reporting for duty."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "Okay. You can route tactical and fire control down here, or take the gunner's seat up by Alex. Wherever feels most comfortable."
+        },
+        {
+          "Index": 5,
+          "Character": "Bobbie",
+          "Quote": "I'll take the gunner's seat."
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "That was … um. Was that a moment?"
+        },
+        {
+          "Index": 7,
+          "Character": "Naomi",
+          "Quote": "That was a moment."
+        },
+        {
+          "Index": 8,
+          "Character": "Holden",
+          "Quote": "Good moment or bad moment?"
+        },
+        {
+          "Index": 9,
+          "Character": "Naomi",
+          "Quote": "Very good moment."
+        },
+        {
+          "Index": 10,
+          "Character": "Holden",
+          "Quote": "Well. Shit. I'm sorry I missed it."
+        }
+      ]
+    },
+    {
+      "Id": 129,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Twenty-Two: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "Well. Looks like Fred didn't object to this enough to keep us from going out."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Yeah. I hope he knows what he's doing, trusting delicate work like this to agents of chaos like us."
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "Fairly sure he's making this shit up as he goes too. Anyway, the worst-case scenario is we all get killed and he gets to feel smart for not having his people on board when we did it. Win-win for him."
+        },
+        {
+          "Index": 3,
+          "Character": "Bobbie",
+          "Quote": "No one dies while standing watch without permission from the commanding officer."
+        }
+      ]
+    },
+    {
+      "Id": 130,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Twenty-Eight: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "He was important."
+        },
+        {
+          "Index": 1,
+          "Character": "Clarissa",
+          "Quote": "I've spent a lot of time with the dead. He'll be okay now. You go take care of the ones that lived through it."
+        },
+        {
+          "Index": 2,
+          "Character": "Amos",
+          "Quote": "You need to get drunk or in a fistfight later, just let me know."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "Yeah. All right."
+        }
+      ]
+    },
+    {
+      "Id": 131,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Thirty-Three: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Bobbie",
+          "Quote": "Are you sure it's a good idea giving them free rein of the station? We don't know who they're talking to."
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "We couldn't stop them. This way it looks like a gesture on our part."
+        },
+        {
+          "Index": 2,
+          "Character": "Bobbie",
+          "Quote": "So theater and palace intrigue."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "Just for now. Just until they buy in. Once they commit, we can get down to our plan."
+        },
+        {
+          "Index": 4,
+          "Character": "Bobbie",
+          "Quote": "Johnson's plan."
+        },
+        {
+          "Index": 5,
+          "Character": "Bobbie",
+          "Quote": "So, just between us. Did Fred Johnson really have a plan?"
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "I'm pretty sure he did. Don't know what it was."
+        },
+        {
+          "Index": 7,
+          "Character": "Bobbie",
+          "Quote": "So this one we're selling?"
+        },
+        {
+          "Index": 8,
+          "Character": "Holden",
+          "Quote": "I'm kind of making it up."
+        }
+      ]
+    },
+    {
+      "Id": 132,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Thirty-Five: Amos",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Amos",
+          "Quote": "I'm not the boss of anything, but seems to me like having Babs here and not putting her in the front line? You use a welding rig to weld things. You use a gun to shoot things. You use a Bobbie Draper to fuck a bunch of bad guys permanently up."
+        },
+        {
+          "Index": 1,
+          "Character": "Bobbie",
+          "Quote": "Right tool for the job."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "You're not tools. But you're not wrong. Okay."
+        }
+      ]
+    },
+    {
+      "Id": 133,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Thirty-Nine: Naomi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "I never understood that. How do hookworms figure into catching fish, anyway?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Not hookworms. Worms, like earthworms. Or insects. Crickets."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "You'd put them on metal hooks with a barb on the end, tie a really thin line to the metal hook, and throw the whole thing out into a lake or a river. Hope that a fish would eat the worm, and then you could haul the fish out with the hook that was caught in its mouth."
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "Sounds inefficient and needlessly cruel."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "It really sort of is."
+        },
+        {
+          "Index": 5,
+          "Character": "Naomi",
+          "Quote": "Do you miss it?"
+        },
+        {
+          "Index": 6,
+          "Character": "Holden",
+          "Quote": "The fishing part? No. The standing out on the edge of a lake or being in a boat while the sun's just coming up? That a little bit."
+        }
+      ]
+    },
+    {
+      "Id": 134,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Forty-Three: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Bobbie",
+          "Quote": "First wave's ready to go. Permission to deploy?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Granted. But, Bobbie? Really, really don't die out there."
+        },
+        {
+          "Index": 2,
+          "Character": "Bobbie",
+          "Quote": "No one lives forever, sir, but as long as it doesn't compromise the mission, I'll try to live through it."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "Thanks."
+        }
+      ]
+    },
+    {
+      "Id": 135,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Forty-Six: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Alex",
+          "Quote": "You know what I'd like?"
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "If we could get out of here?"
+        },
+        {
+          "Index": 2,
+          "Character": "Alex",
+          "Quote": "If we could get out of here. At this rate we're going to be sitting here with our jumpsuits around our ankles when the bad guys get back. There's a reason they don't call those things slow-attack ships."
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "The Giambattista's a big ship, Alex. You're just spoiled because you haven't had to drive a cow like that in years."
+        },
+        {
+          "Index": 4,
+          "Character": "Alex",
+          "Quote": "Shit. I could have spun the Canterbury around in half the time this is taking."
+        },
+        {
+          "Index": 5,
+          "Character": "Naomi",
+          "Quote": "Well, you were good at your job."
+        }
+      ]
+    },
+    {
+      "Id": 136,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Forty-Six: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Oh. So. Do we have a plan to address that?"
+        },
+        {
+          "Index": 1,
+          "Character": "Bobbie",
+          "Quote": "Fight like hell and hope the bad guys spend so much time killing us they can't finish rebuilding before whoever Avasarala and Richards send next gets here."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "Ah."
+        },
+        {
+          "Index": 3,
+          "Character": "Bobbie",
+          "Quote": "We've been screwed since the minute I blew up that reactor. Doesn't take away from the essential dignity of the situation. And this is a fine hill."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "A what?"
+        },
+        {
+          "Index": 5,
+          "Character": "Bobbie",
+          "Quote": "Fine hill to die on."
+        }
+      ]
+    },
+    {
+      "Id": 137,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Forty-Nine: Naomi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "I don't know what's going to be useful, or who it's going to be useful to. And since it doesn't look like we'll be on Medina long enough to go through everything, I thought I'd send copies out everywhere. Give other people a chance to find whatever I'm missing."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "That's … ah."
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "I know. I may have been spending too much time with you. I'm starting to think like you. Only, well. The way you used to, anyhow."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "I still think like that. I worry more that it's going to do something unexpected and terrible and huge that I'll be responsible for, but I still think that way."
+        },
+        {
+          "Index": 4,
+          "Character": "Naomi",
+          "Quote": "An unshakable faith in humanity."
+        },
+        {
+          "Index": 5,
+          "Character": "Holden",
+          "Quote": "It's true. Against all evidence, I keep thinking the assholes are outliers."
+        }
+      ]
+    },
+    {
+      "Id": 138,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Forty-Nine: Naomi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "If we're going to die, we should make it mean at least as much as your video pieces did."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "I don't know that those mattered. Did they do anything?"
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "You don't get to know that. They did or they didn't. You didn't put them out so that someone would send you a message about how important and influential you are. You tried to change some minds. Inspire some actions."
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "Even if it didn't work, it was a good thing to try. And maybe it did. Maybe those saved someone, and if they did, that's more important than making sure you get to know about it."
+        }
+      ]
+    },
+    {
+      "Id": 139,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Forty-Nine: Naomi",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Holden",
+          "Quote": "Hey. Are you all right? You didn't come back to the ship last night."
+        },
+        {
+          "Index": 1,
+          "Character": "Naomi",
+          "Quote": "No. I think I have something interesting here. I need someone to look at it for me in case I'm just hallucinating from exhaustion."
+        },
+        {
+          "Index": 2,
+          "Character": "Holden",
+          "Quote": "I'll be right there. Should I grab anyone else? What sort of 'interesting' are you looking at?"
+        },
+        {
+          "Index": 3,
+          "Character": "Naomi",
+          "Quote": "It's about the missing ships."
+        },
+        {
+          "Index": 4,
+          "Character": "Holden",
+          "Quote": "Do you know what's eating them?"
+        },
+        {
+          "Index": 5,
+          "Character": "Naomi",
+          "Quote": "I don't. I know something better."
+        }
+      ]
+    },
+    {
+      "Id": 140,
+      "Book": "Babylon's Ashes",
+      "Chapter": "Chapter Fifty: Holden",
+      "Published": "No",
+      "Lines": [
+        {
+          "Index": 0,
+          "Character": "Naomi",
+          "Quote": "A massive n equals one study where our null hypothesis is that we all get killed."
+        },
+        {
+          "Index": 1,
+          "Character": "Holden",
+          "Quote": "Not necessarily. They only have fifteen to our one. We might still take them. We have Bobbie and Amos."
+        },
+        {
+          "Index": 2,
+          "Character": "Naomi",
+          "Quote": "If it doesn’t work, we won’t be any more fucked than we are now."
+        },
+        {
+          "Index": 3,
+          "Character": "Holden",
+          "Quote": "Probably not. I mean, weird, dead alien technology with effects we don’t understand sweeping whole ships away without leaving a trace or explanation. That’s probably safe to play with, right?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <!-- Roll forward to future major versions of the netcoreapp as needed -->
+    <RollForward>Major</RollForward>
+    <AssemblyName>$(MSBuildProjectName)</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Amazon.CDK" Version="1.158.0" />
+    <PackageReference Include="Amazon.CDK.AWS.APIGateway" Version="1.158.0" />
+    <PackageReference Include="Amazon.CDK.AWS.CustomResources" Version="1.158.0" />
+    <PackageReference Include="Amazon.CDK.AWS.DynamoDB" Version="1.158.0" />
+    <PackageReference Include="Amazon.CDK.AWS.IAM" Version="1.158.0" />
+    <PackageReference Include="Amazon.CDK.AWS.Lambda" Version="1.158.0" />
+    <PackageReference Include="Amazon.Lambda.Core" Version="2.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExpanseBotsLambda\ExpanseBotsLambda.csproj" />
+  </ItemGroup>
+
+</Project>
