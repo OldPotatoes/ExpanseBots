@@ -1,6 +1,5 @@
 ﻿using Amazon;
 using Amazon.DynamoDBv2;
-using Amazon.DynamoDBv2.DataModel;
 using Amazon.DynamoDBv2.Model;
 using Amazon.Lambda.Core;
 using System;
@@ -29,6 +28,34 @@ namespace BotDynamoDB
                 {
                     RegionEndpoint = RegionEndpoint.USEast1 // (N. Virginia)
                 });
+        }
+
+        public async Task<Boolean> PublishedToday()
+        {
+            Boolean alreadyPublished = false;
+            ScanRequest request;
+            var attribValues = new Dictionary<string, AttributeValue>
+            {
+                [":published"] = new AttributeValue { S = DateTime.Today.ToString() },
+                [":active"] = new AttributeValue { BOOL = true }
+            };
+            String filterExpression = "Published = :published AND Active = :active";
+
+            request = new ScanRequest
+            {
+                TableName = TableName,
+                ExpressionAttributeValues = attribValues,
+                FilterExpression = filterExpression
+            };
+
+            var resp = await _client.ScanAsync(request);
+            if (resp.Items.Count > 0)
+            {
+                LambdaLogger.Log($"    Conversation already published today\n");
+                alreadyPublished = true;
+            }
+
+            return alreadyPublished;
         }
 
         public async Task<List<Conversation>> GetAllConversations(Boolean unpublished)
@@ -148,7 +175,6 @@ namespace BotDynamoDB
             if (actuallySet)
             {
                 LambdaLogger.Log($"    SetPublishedLine, request {request}\n");
-                //_ = client.UpdateItemAsync(request).Result;
                 client.UpdateItemAsync(request);
             }
         }

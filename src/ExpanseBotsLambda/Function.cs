@@ -63,6 +63,13 @@ public class Function
         context.Logger.LogInformation("Beginning a conversation...\n");
 
         var dbConvos = new ConversationsTable();
+        var taskHasFinishedToday = dbConvos.PublishedToday();
+        Boolean hasFinishedToday = taskHasFinishedToday.Result;
+        if (hasFinishedToday)
+        {
+            return ReturnResponse(context, "Finished for today", HttpStatusCode.OK);
+        }
+
         var taskConvos = dbConvos.GetAllConversations(true);
         List<Conversation> convos = taskConvos.Result;
 
@@ -90,11 +97,11 @@ public class Function
 
         // Update the published number in the database
         if (isFinalLine)
-            dbConvos.SetPublishedLine(convo.Id, "Yes", true);
+            dbConvos.SetPublishedLine(convo.Id, DateTime.Today.ToString(), true);
         else
             dbConvos.SetPublishedLine(convo.Id, thisLine.ToString(), true);
 
-        return ReturnResponse(context, tweetText, HttpStatusCode.OK);
+        return ReturnResponse(context, $"{speaker.ShortName}: {tweetText}", HttpStatusCode.OK);
     }
 
     private static (RequestBody, Boolean) ReadRequestBody(ILambdaContext context, String boddy)
