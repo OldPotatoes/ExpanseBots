@@ -16,12 +16,24 @@ namespace BotTweeter
         public const Int64 NaomiBotUserId = 1518315541030653953;
         public const Int64 AmosBotUserId = 1518316485818687493;
         public const Int64 AlexBotUserId = 1518317034022572033;
+        public const Int64 BobbieBotUserId = 1541187581093838849;
+        public const Int64 FredBotUserId = 1541189422347177987;
+        public const Int64 ClarissaBotUserId = 1541191039460966403;
+        public const Int64 ElviBotUserId = 1541192486303023106;
+        public const Int64 HavelockBotUserId = 1541193366330871817;
+        public const Int64 PraxBotUserId = 1541195708157526020;
         public const String AvasaralaBot = "@AvasaralaBot";
         public const String MillerBot = "@JosephusBot";
         public const String HoldenBot = "@bot_holden";
         public const String NaomiBot = "@NaomiNagataBot";
         public const String AmosBot = "@AmosBurtonBot";
         public const String AlexBot = "@BotAlexKamal";
+        public const String BobbieBot = "@BobbieDraperBot";
+        public const String FredBot = "@FredJohnsonBot";
+        public const String ClarissaBot = "@ClarissaMaoBot";
+        public const String ElviBot = "@ElviOkoyeBot";
+        public const String HavelockBot = "@HavelockBot";
+        public const String PraxBot = "@PraxidikeBot";
 
         private readonly TwitterContext _context;
 

@@ -67,9 +67,46 @@ namespace ExpanseBotsCDK
             var AlexBotAccessTokenSecret = new CfnParameter(this, "AlexBotAccessTokenSecret");
             AlexBotAccessTokenSecret.Type = "String";
 
+            var BobbieBotAccessToken = new CfnParameter(this, "BobbieBotAccessToken");
+            BobbieBotAccessToken.Type = "String";
+
+            var BobbieBotAccessTokenSecret = new CfnParameter(this, "BobbieBotAccessTokenSecret");
+            BobbieBotAccessTokenSecret.Type = "String";
+
+            var FredBotAccessToken = new CfnParameter(this, "FredBotAccessToken");
+            FredBotAccessToken.Type = "String";
+
+            var FredBotAccessTokenSecret = new CfnParameter(this, "FredBotAccessTokenSecret");
+            FredBotAccessTokenSecret.Type = "String";
+
+            var ClarissaBotAccessToken = new CfnParameter(this, "ClarissaBotAccessToken");
+            ClarissaBotAccessToken.Type = "String";
+
+            var ClarissaBotAccessTokenSecret = new CfnParameter(this, "ClarissaBotAccessTokenSecret");
+            ClarissaBotAccessTokenSecret.Type = "String";
+
+            var ElviBotAccessToken = new CfnParameter(this, "ElviBotAccessToken");
+            ElviBotAccessToken.Type = "String";
+
+            var ElviBotAccessTokenSecret = new CfnParameter(this, "ElviBotAccessTokenSecret");
+            ElviBotAccessTokenSecret.Type = "String";
+
+            var HavelockBotAccessToken = new CfnParameter(this, "HavelockBotAccessToken");
+            HavelockBotAccessToken.Type = "String";
+
+            var HavelockBotAccessTokenSecret = new CfnParameter(this, "HavelockBotAccessTokenSecret");
+            HavelockBotAccessTokenSecret.Type = "String";
+
+            var PraxBotAccessToken = new CfnParameter(this, "PraxBotAccessToken");
+            PraxBotAccessToken.Type = "String";
+
+            var PraxBotAccessTokenSecret = new CfnParameter(this, "PraxBotAccessTokenSecret");
+            PraxBotAccessTokenSecret.Type = "String";
+
             // Lambda that handles ExpanseBots requests
             var expanseBotsLambda = new Function(this, "ExpanseBotsLambda", new FunctionProps
             {
+                Description = "Expanse Bots that talk to each others",
                 Runtime = Runtime.DOTNET_6,
                 Code = Code.FromAsset(functionPath),
                 Timeout = Duration.Seconds(30),
@@ -91,6 +128,19 @@ namespace ExpanseBotsCDK
                     { ExpanseBotsLambda.Person.AmosSecret, AmosBotAccessTokenSecret.ValueAsString },
                     { ExpanseBotsLambda.Person.AlexToken, AlexBotAccessToken.ValueAsString },
                     { ExpanseBotsLambda.Person.AlexSecret, AlexBotAccessTokenSecret.ValueAsString },
+
+                    { ExpanseBotsLambda.Person.BobbieToken, BobbieBotAccessToken.ValueAsString },
+                    { ExpanseBotsLambda.Person.BobbieSecret, BobbieBotAccessTokenSecret.ValueAsString },
+                    { ExpanseBotsLambda.Person.FredToken, FredBotAccessToken.ValueAsString },
+                    { ExpanseBotsLambda.Person.FredSecret, FredBotAccessTokenSecret.ValueAsString },
+                    { ExpanseBotsLambda.Person.ClarissaToken, ClarissaBotAccessToken.ValueAsString },
+                    { ExpanseBotsLambda.Person.ClarissaSecret, ClarissaBotAccessTokenSecret.ValueAsString },
+                    { ExpanseBotsLambda.Person.ElviToken, ElviBotAccessToken.ValueAsString },
+                    { ExpanseBotsLambda.Person.ElviSecret, ElviBotAccessTokenSecret.ValueAsString },
+                    { ExpanseBotsLambda.Person.HavelockToken, HavelockBotAccessToken.ValueAsString },
+                    { ExpanseBotsLambda.Person.HavelockSecret, HavelockBotAccessTokenSecret.ValueAsString },
+                    { ExpanseBotsLambda.Person.PraxToken, PraxBotAccessToken.ValueAsString },
+                    { ExpanseBotsLambda.Person.PraxSecret, PraxBotAccessTokenSecret.ValueAsString },
                 },
             });
 
@@ -197,6 +247,7 @@ namespace ExpanseBotsCDK
                 {"Book", new Dictionary<string, object>() { { "S", conversation.Book } }},
                 {"Chapter", new Dictionary<string, object>() { { "S", conversation.Chapter } }},
                 {"Published", new Dictionary<string, object>() { { "S", conversation.Published } }},
+                {"Active", new Dictionary<string, object>() { { "BOOL", conversation.Active } }},
                 {"Lines", new Dictionary<string, object>() { { "L", listLines.ToArray() } }}
             };
 

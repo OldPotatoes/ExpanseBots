@@ -40,7 +40,8 @@ namespace BotDynamoDB
             if (unpublished)
             {
                 attribValues[":published"] = new AttributeValue { S = "Yes" };
-                filterExpression = "Published <> :published";
+                attribValues[":active"] = new AttributeValue { BOOL = true };
+                filterExpression = "Published <> :published AND Active = :active";
             }
 
             request = new ScanRequest
@@ -61,6 +62,7 @@ namespace BotDynamoDB
                     Book = item["Book"].S,
                     Chapter = item["Chapter"].S,
                     Published = item["Published"].S,
+                    Active = item["Active"].BOOL,
                     Lines = new List<Line>()
                 };
 
@@ -96,7 +98,7 @@ namespace BotDynamoDB
             var currentlyPublishing = new Conversation();
             foreach (Conversation conversation in convos)
             {
-                if (conversation.Published != "Yes" && conversation.Published != "No")
+                if (conversation.Published != "Yes" && conversation.Published != "No" && conversation.Active == false)
                 {
                     LambdaLogger.Log($"    There is a conversation being published: {conversation.Published}\n");
                     currentlyPublishing = conversation;
