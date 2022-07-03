@@ -98,7 +98,7 @@ namespace BotDynamoDB
             var currentlyPublishing = new Conversation();
             foreach (Conversation conversation in convos)
             {
-                if (conversation.Published != "Yes" && conversation.Published != "No" && conversation.Active == false)
+                if (conversation.Published != "Yes" && conversation.Published != "No" && conversation.Active == true)
                 {
                     LambdaLogger.Log($"    There is a conversation being published: {conversation.Published}\n");
                     currentlyPublishing = conversation;
@@ -124,6 +124,7 @@ namespace BotDynamoDB
 
         public void SetPublishedLine(Int32 conversationId, String publishedLine, bool actuallySet)
         {
+            LambdaLogger.Log($"    SetPublishedLine, convo {conversationId} to {publishedLine}\n");
             AmazonDynamoDBClient client = new AmazonDynamoDBClient();
 
             var request = new UpdateItemRequest
@@ -146,6 +147,7 @@ namespace BotDynamoDB
 
             if (actuallySet)
             {
+                LambdaLogger.Log($"    SetPublishedLine, request {request}\n");
                 //_ = client.UpdateItemAsync(request).Result;
                 client.UpdateItemAsync(request);
             }

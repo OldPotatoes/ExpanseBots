@@ -82,7 +82,7 @@ public class Function
         Tweeter? tweeter = InitializeTweeter(context, speaker);
         if (tweeter == null)
         {
-            String message = $"Failed to initialize the tweeter for {thisLine}";
+            String message = $"Failed to initialize the tweeter for {speaker.FullName}";
             return ReturnResponse(context, message, HttpStatusCode.InternalServerError);
         }
 
