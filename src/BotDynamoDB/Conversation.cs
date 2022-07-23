@@ -11,6 +11,7 @@ namespace BotDynamoDB
         public String Book { get; set; }
         public String Chapter { get; set; }
         public String Published { get; set; }
+        public String LastTweetId { get; set; }
         public List<Line> Lines { get; set; }
         public Boolean Active { get; set; }
     }

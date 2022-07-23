@@ -16,7 +16,7 @@ namespace ExpanseBotsCDK
 {
     public class ExpanseBotsStack : Stack
     {
-        const String functionPath = "src/ExpanseBotsLambda/bin/Debug/net6.0";
+        const String FUNCTION_PATH = "src/ExpanseBotsLambda/bin/Debug/net6.0";
         internal ExpanseBotsStack(Construct scope, string id, IStackProps props = null) : base(scope, id, props)
         {
             var AwsAccessKeyId = new CfnParameter(this, "AwsAccessKeyId");
@@ -108,7 +108,7 @@ namespace ExpanseBotsCDK
             {
                 Description = "Expanse Bots that talk to each others",
                 Runtime = Runtime.DOTNET_6,
-                Code = Code.FromAsset(functionPath),
+                Code = Code.FromAsset(FUNCTION_PATH),
                 Timeout = Duration.Seconds(30),
                 Handler = "ExpanseBotsLambda::ExpanseBotsLambda.Function::Get", // Assembly::Type::Method
                 Environment = new Dictionary<String, String>{
@@ -147,7 +147,9 @@ namespace ExpanseBotsCDK
             // REST API that receives ExpanseBots requests
             new LambdaRestApi(this, "ExpanseBotsEndpoint", new LambdaRestApiProps
             {
-                Handler = expanseBotsLambda
+                Handler = expanseBotsLambda,
+                RestApiName = "bots",
+                Description = "Expanse Twitter Bots"
             });
 
             // DynamoDB table
@@ -247,6 +249,7 @@ namespace ExpanseBotsCDK
                 {"Book", new Dictionary<string, object>() { { "S", conversation.Book } }},
                 {"Chapter", new Dictionary<string, object>() { { "S", conversation.Chapter } }},
                 {"Published", new Dictionary<string, object>() { { "S", conversation.Published } }},
+                {"LastTweetId", new Dictionary<string, object>() { { "S", conversation.LastTweetId } }},
                 {"Active", new Dictionary<string, object>() { { "BOOL", conversation.Active } }},
                 {"Lines", new Dictionary<string, object>() { { "L", listLines.ToArray() } }}
             };
