@@ -89,7 +89,7 @@ namespace BotDynamoDB
                     Book = item["Book"].S,
                     Chapter = item["Chapter"].S,
                     Published = item["Published"].S,
-                    LastTweetId = item["LastTweetID"].S,
+                    LastTweetId = item["LastTweetId"].S,
                     Active = item["Active"].BOOL,
                     Lines = new List<Line>()
                 };
@@ -247,7 +247,7 @@ namespace BotDynamoDB
                 },
                 ExpressionAttributeNames = new Dictionary<string, string>()
                 {
-                    {"#T", "LastTweetID"}
+                    {"#T", "LastTweetId"}
                 },
                 ExpressionAttributeValues = new Dictionary<string, AttributeValue>()
                 {
