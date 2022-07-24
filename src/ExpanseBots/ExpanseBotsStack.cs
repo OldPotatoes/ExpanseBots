@@ -114,8 +114,8 @@ namespace ExpanseBotsCDK
                 Environment = new Dictionary<String, String>{
                     { BotDynamoDB.ConversationsTable.AwsAccessKeyId, AwsAccessKeyId.ValueAsString},
                     { BotDynamoDB.ConversationsTable.AwsSecretAccessKey, AwsSecretAccessKey.ValueAsString},
-                    { ExpanseBotsLambda.Function.AppKey, ExpanseBotsApiKey.ValueAsString },
-                    { ExpanseBotsLambda.Function.AppSecret, ExpanseBotsApiSecretKey.ValueAsString },
+                    { ExpanseBotsLambda.Function.AppKeyName, ExpanseBotsApiKey.ValueAsString },
+                    { ExpanseBotsLambda.Function.AppSecretName, ExpanseBotsApiSecretKey.ValueAsString },
                     { ExpanseBotsLambda.Person.AvasaralaToken, AvasaralaBotAccessToken.ValueAsString },
                     { ExpanseBotsLambda.Person.AvasaralaSecret, AvasaralaBotAccessTokenSecret.ValueAsString },
                     { ExpanseBotsLambda.Person.MillerToken, MillerBotAccessToken.ValueAsString },

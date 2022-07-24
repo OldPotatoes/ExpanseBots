@@ -191,7 +191,7 @@ namespace BotDynamoDB
             return currentlyPublishing;
         }
 
-        public Int32 GetNextLineIndex(Conversation conversation)
+        public Int32 GetPublishedLineIndex(Conversation conversation)
         {
             if (Int32.TryParse(conversation.Published, out Int32 lineIndex))
             {
