@@ -71,6 +71,11 @@ public class Function
         {
             return TestTweet(context);
         }
+        else
+        {
+            // For shame, this is where my EventBridge triggered calls end up, and I don't know why
+            return Conversation(context);
+        }
 
         return ReturnResponse(context, "I am Expanse Bots, give me something to do.\n", HttpStatusCode.OK);
     }
